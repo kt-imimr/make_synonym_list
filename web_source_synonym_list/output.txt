@@ -4572,10 +4572,6 @@ with open(FILE_PATH, 'w', encoding='utf-8') as f:
     f.write("")
 
 for root, dirs, files in os.walk('.'):
-    print("🐍 File: manual_synonym_list/app.py | Line: 14 | undefined ~ files",files)
-    print("🐍 File: manual_synonym_list/app.py | Line: 14 | undefined ~ dirs",dirs)
-    print("🐍 File: manual_synonym_list/app.py | Line: 17 | undefined ~ root",root)
-
     try:
         for file in files:
             if('output.txt' not in files or 'py' not in files):

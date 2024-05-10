@@ -1,9 +1,9 @@
 import os
 
-FILE_PATH = 'synonym_set.txt'
+COLLECTION_PATH = 'synonym_set.txt'
 
 # 1. create the file first no matter it exists or not
-with open(FILE_PATH, 'w', encoding='utf-8') as f:
+with open(COLLECTION_PATH, 'w', encoding='utf-8') as f:
     f.write("")
 
 for root, dirs, files in os.walk('.'):
@@ -19,7 +19,7 @@ for root, dirs, files in os.walk('.'):
                     word_list = f.read().splitlines()
                 
                 unique_word_list = list(set(word_list)) # make it unique list, and it reorders it.
-                # 3. write to the FILE_PATH
-                with open(FILE_PATH, 'a', encoding='utf-8') as f:
+                # 3. write to the COLLECTION_PATH
+                with open(COLLECTION_PATH, 'a', encoding='utf-8') as f:
                     f.write("\n".join(unique_word_list))
                     f.write("\n")

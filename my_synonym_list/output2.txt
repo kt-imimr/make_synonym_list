@@ -1,0 +1,2313 @@
+100 安培,100A,一百安培,一百安,100 amp,100 ampere,one hundred amp,one hundred ampere 
+1985 年前,pre-1985
+1级,Grade 1
+200伏特,二百伏特,200 volt,200 Volt,200 V,200v,
+2019冠状病毒病,covid-2019,covid-19,covid,冠状病毒,新冠状病毒,新冠病毒,coronavirus,新型冠状病毒,新冠肺炎,coronavirus disease
+24小时,24 hour,24 hr,整天,整日,二十四小时,全日,24个钟,二十四个钟
+24小时接通,二十四小时接通,廿四小时接通,廿四小时都有人聼,廿四个钟头接通,廿四个钟头都有人聼,廿四个钟接通,二十四个钟接通,二十四个钟头接通,二十四个钟都有人聼,全日接通,全日都有人聼,24 hour hotline,twenty four hour hotline,24 hour phone support,twenty four hour phone support,24/7
+2扁脚插头,2扁脚插苏头,2扁插头,2扁插苏头,二扁脚插苏头,二扁插头,二扁插苏头,2 flat pin,two flat pin,2-flat-pin plug,two-flat-pin plug,两只扁脚嘅插头,两只扁脚嘅插苏头,2只扁脚嘅插苏,2只扁脚嘅插苏头
+36V以下产品,36 Volt以下,36 v以下,三十六伏特以下,36伏特以下,细过36伏特,细过36v,细过36Volt,细过三十六伏特,voltage lower than 36V,voltage under 36v,under 36volts,under 36 volts
+3a,3A,three A,three a,三a,三A
+3b,3B,three B,three b,三b,三B
+3c,3C,three C,three c,三c,三C
+3级,Grade 3
+3脚火牛,三脚火牛,三脚变压器,3脚变压器,3脚充电器,三脚充电器,3 pin transformer,three pin transformer,三只脚嘅火牛,3只脚嘅火牛
+4T约章,4T Charter,4T 宪章,4T契约,Four T Charter,Four T contract,Four T deed,4T contractor,4T deed
+4座位,4 seat,4 seats,4 seater,4位,four seater,four seats,四座位,四位
+5 年,5 years,五年,five years 
+50赫兹,50Hz,50 hertz,fifty Hertz,fifty hertz,fifty Hz,五十Hertz,五十Hz,五十赫兹,五十hertz 
+5安培,五安培,五安,五A,5A,5 amp,5 ampere,five amp,five ampere 
+5座位,5 seat,5 seats,5 seater,5位,five seater,five seats,五座位,五位
+5级,Grade 5
+A1雪种,A1 refrigerant,a1雪种,a1制冷剂,a1致冷剂,a1冷媒,A1制冷剂,A1致冷剂,A1冷媒
+A牌,a牌,Grade A,grade a,A级牌,牌A,牌a,A级证明书,A级电力工程证书,Grade A applicant,Grade A qualification,A牌
+B级电力工程,Grade B electrical works
+B牌,b牌,Grade B,grade b,B级牌,牌B,牌b,B级证明书,B级电力工程证书,Grade B applicant,Grade B qualification,b级牌
+CCC,cable colour code,电线颜色代码
+ce证书,CE 认证,ce certificate,Conformitè Europëenne certificate
+CLP,china light and power,中电,中华电力有限公司
+CT1A,Cooling Tower 1A,EMSD EE CT1A,Fresh Water Cooling Towers Scheme
+Application for Participation 1A
+CT1B,Cooling Tower1B,EMSD EE CT1B,Fresh Water Cooling Towers Scheme
+Application for Participation 1B, CT 1B
+CT2,Cooling Tower2,EMSD EE CT2,Fresh Water Cooling Towers Scheme
+Application for Participation 2
+CT2B,Cooling Tower2B,EMSD EE CT2B,Fresh Water Cooling Towers Scheme
+Application for Participation 2B, CT 2B
+CT3,Cooling Tower3,EMSD EE CT 3,Fresh Water Cooling Towers Scheme
+Application for Participation 3
+C级电力工程,class C electrical work
+C级电业工程人员,C牌电工,c级电工,grade c electrical worker
+C级证明书,C级牌,Grade C applicant,Grade C qualification,c牌,C牌
+ECIB,Energy Consumption Indicators and Benchmarks,能源消耗指标和基准,能耗指标和基准
+ESCI,Energy Smart Communities Initiative,APEC Energy Smart Communities Initiative,ESCI KSP,APEC能源智慧社区倡议知识分享平台,APEC能源智慧社区倡议
+ESI,Energy Security Inactivate,能源安全停用,能源安全
+Form EE-EN,建 筑 物 能 源 效 益 守 则 ,EE-EN
+GF1,电力条例(第 406 章) ,Form GF 1,ELECTRICITY ORDINANCE (CAP. 406)
+GU标志,GU Mark,GU Label,GU,GU mark,GU嘜,GU 标志,GU 嘜,GU标记,GU 标记,GU 标示,GU标示,GU sign,GU标签,GU 标签
+H 级,Grade H,H 级电业,H 级电工,Grade H electrical
+HKE,Hong Kong Electric,香港电灯,港灯,港灯电力
+H级电力工程,Grade H electrical work,H 级电工,Grade H electrical H-level electrical
+H级电业工程人员,H级电工,grade H electrical worker,grade h electrical worker
+IEC 60950,IEC60950
+LED光管,发光二极体光管,发光二极管光管,Light-emitting diode fluorescent tubes,led fluorescent tubes,Light-emitting diode fluorescent lamp,led fluorescent lamp,LED tubes,LED light tube,LED light bulb,LED bulb,LED lamps,LED tube light,LED灯管,LED灯,Light-emitting diode,发光二极体,Light-Emitting Diode Light
+led泛光灯,发光二极体泛光灯,发光二极管泛光灯,Light-emitting diode flood light,led flood light
+LVD,low voltage directive,低电压指令,LVD指令
+MCCB,Moulded Case Circuit Breaker,模制外壳断路器, 塑壳断路器,低压过电流保护断路器
+NCF17-102,避雷装置,法国标准NC F 17 - 102,放电式避雷针
+OEM产品,代工生产嘅产品,original equipment manufacturer products,委托制造的产品,原始设备制造商的产品,委托制造嘅产品,原始设备制造商嘅产品
+qr码,二维码,qr code,quick response code,
+Quick-fit coupling与无牙纹喉管连接配件,生索
+R32,二氟甲烷,零臭氧损耗潜势的冷却剂,Difluoromethane,HFC-32,R-32,CH2F2,r32,R 32,r 32
+RSS频道,简易资讯整合,Really Simple Syndication,RSS
+RVM通讯,RVM Newsletter,RVM 
+R级电力工程,R级电力,R牌电力, Grade R electrical work, Grade R,R-level electrial
+R牌,R 级电力工程,R牌电力工程人员证明书,grade R,grade r,
+R牌电工,R牌电业工程人员,grade R electrical worker,grade r electrical worker 
+SchemeA训练, Scheme A training, Scheme "A" Graduate Training,
+工程毕业生培训计划
+T5型高输出(HO)荧光灯,T5 HO lamps,T5 type high output (HO) fluorescent lamp,T5高输出灯具,T5 HO Fluorescent lamp,T5 HO light,T5 type high output (HO) fluorescent lantern,
+T5型荧光灯,T5 lamps,T5 luminaires,T5灯具,T5 Fluorescent lamp,T5 fluorescent light,T5 fluorescent lantern,T5 fluorescent  burner,T5 fluorescent value
+T8型荧光灯,T8 lamps,T8 luminaires,T8灯具,T8 Fluorescent lamp,T5 fluorescent light,T5 fluorescent lantern,T5 fluorescent burner,T5 fluorescent value
+Tefal,特福
+USB充电插座,USB charger,usb charger,usb叉电插头,usb叉电插座,USB叉电插头,USB叉电插座
+USB拖板,usb extension,usb extension unit
+VMRU,车辆维修注册计划,机电工程署车辆维修注册组,Vehicle Maintenance Registration Unit 
+witty bear,小熊,you,你,机智啤啤,bear bear
+一地两检,co-location arrangement,广深港高铁（一地两检）,香港段一地两检
+一星期,one week,a week
+一个月,one month,a month
+一氧化碳,Carbon monoxide,CO
+一站式项目管理服务,Full project Management Services,full project management services,
+一般法例部,General Legislation Division,GLD
+一般保养,routine maintenace,regular routine maintenance,General maintenance,normal maintenance,定期保养,例行维修,定期维修,例行保养,普通维修,普通保养
+一般职责,general duties,general responsibilities,normal duties,usual duties,普通职责,普遍职责,一般做咩,一般有咩做,平时做d咩,一般做d咩,一般有什麽职责
+一号客运大楼,T1,Terminal 1,香港国际机场一号客运大楼,Hong Kong International Airport Terminal 1
+一幢,One block of building,a block of building,一座
+乙部,第二部分,section B,second part,2nd part,part B
+九广铁路,KCRC,Kowloon–Canton Railway Corporation,九广铁路公司
+九龙区,九龙,kowloon,kln
+九龙湾,kowloon bay,kln bay
+二十四小时,24小时,廿四小时,廿四个钟头,廿四个钟,二十四个钟,二十四个钟头,24 hours,24 hrs,twenty four hours,a day,一日,一天,全日,whole day
+二十年,20 年,廿年,20 years,twenty years,two decades,2 decades,twenty year
+二手产品,second hand products,used product,second-hand goods,second hand output,used goods,used output
+二氧化碳排放量,CO2 emissions
+二脚转换插头,2-pin adaptor,two-pin adaptor,二脚转换插座,两二脚转换插头
+人,人类,人员,人士,people,person,personnel,human,homo sapiens
+人工,粮,薪水,薪酬,工资,salary,pay,earning,wage,earned income,
+人身,个人,personal,body
+人员,staff,personnel,crew,employee,员工,职员,伙记,雇员,伙记,店员,雇工
+入口处,入口,Import,inlet,entrance,enter port,进口,舶来,外国进口,来路,外国入口,门口,way in,doorway
+入伙,新居,new home
+八号,signal eight,signal number eight,signal no. eight,signal 8,8号
+刁士,猪嘴
+力古,六角
+十年,ten year,ten years,decade,10年
+三十天,三十日,thirty days
+三文治机,sandwich machine
+三方脚插座,3-rectangular-pin socket,三脚插,三脚头,3脚插,3脚头,3脚插头,three-pin plug,三只脚嘅插头,type g plug,type G plug
+三无大厦,three-nil building,three-nil structure,three-nil architechture,three-nil edifice,three-nil mansion,three-nil erection
+三跑道客运大楼, 香港国际机场三跑客运大楼,香港国际机场第三跑道客运大楼,三跑客运大楼,Hong Kong International Airport Third Runway Passenger Terminal,Hong Kong International Airport Terminal 3
+三脚,three-pin,3-pin,3脚,three leg plug,3-leg plug,3 leg plug,three pin plug,3-pin plug,3 pin plug,三脚,3脚插头,三脚插头,三只脚,3只脚,3 pin,3 pins,three pins 
+三脚插头,三脚插,三脚头,3脚插,3脚头,3脚插头,three-pin plug,三只脚嘅插头,type g plug,type G plug
+上下指示灯,up and down indicators,Up and down indicator lights,Up and down display,上下显示灯,上下指示器,上下显示器
+上升,upward movement,rise,level up,increase,升
+上司,上头,老板,老细,上级,老板,boss,superior,high-up,supervisor,your director, Poon Kwok-Ying,Raymond Poon,潘国英,KY Poon
+上游,upstream
+上诉机制,Appeal mechanism,complaint machanism,Whine machanism,Grumble machanism,申诉机制,申诉方法,申诉制度,申诉方式,上诉制度,上诉体制,申诉体制,投诉机制,投诉方法,投诉制度
+上载,upload,上存
+上过学,educated,been to school,received schooling,接受过教育,返过学,上过堂,
+上网电价,Feed-in Tariff,FiT
+上网电价计划,Feed-in Tariff plan,Feed-in Tariff (FiT) Scheme, 可再生能源上网电价计划,FiTS,Freed-in Tariff Scheme,FiTs
+上锁,lock,locked,锁住,锁上
+下跌,downward movement,drop,decrease,decline,跌,落
+下载,download 
+土瓜湾,tokwanwan
+士巴拿,Zip 士
+大亚湾核电厂, 广东大亚湾核电站,大湾核电,Guangdong Daya Bay Nuclear Power Station,Daya Bay Nuclear Power Station
+大使,ambassador
+大型基建,Large-scale infrastructure,大型基建项目,大型基建计划,大型基建发展,Large-scale infrastructure projects,Large-scale infrastructure development
+大型货物,large-sized goods,large-sized product,large-sized cargo,large-sized freight,large-sized  merchandise,large-sized commodity,大型产品,大型物品,大型货品
+大型维修,large-scale repair works,大规模维修,Major maintenance,Major repair works,大型维修工程,大规模维修工程,large-scale restore works,large-scale renovate work,major restore work,major renovate works,large-scale fix work,large-scale mend work,大型修理工程,大型修复工程
+大型办公室, large office,大面积办公室,大办公室
+大量,好多,many,批量,bulk,大批
+大厦公用,communal
+大厦业主,owner of a building,owners of a building,owners of the building,业主,landlord,building owners,building owner,proprietor,business owner,business entrepreneur,mansion owner,owner of mansion,edifice owner,owner of edifice,大厦所有者,大厦物主
+大厦业主立案法团,incorporated Owners of building,building corporation,大厦法团,Incorporated Owners,法团,业主立案法团
+女,女生,女人,女孩,女士,小姐,woman,female,girl
+小巴,mini bus,bus,light bus,van仔,小型巴士
+小册子,booklet,pamphlet
+小型风力发电机,small wind turbine,wind turbine,风力发电机
+小型家电产品,小家电产品,小型家电器, small household electrical appliance,小家电,小家电器
+小型浅土挖掘工程,minor shallow excavation,,小浅土挖掘工程,小浅土挖掘
+小型产品,small products,小型家电,小型电器
+小孩,小朋友,孩子,细路,儿童,小童,细路哥,child,children,young kid,kid
+小童电池车,children battery cars,children battery car ,kid battery car ,儿童电池车,child battery car,小孩电池车,小童电动车,儿童电动车,小孩电动车, 小朋友电动车,小朋友电池车
+小童机动游戏机使用及操作许可证, Permit to Use and Operate for Kiddie Ride
+小锦囊,tips,小提示,小良方
+山顶榄车,Peak Tram,榄车,香港山顶榄车
+山顶榄车的载客量,Peak Tram's capacity,Passenger capacity of the Peak Tram,榄车的载客量
+山顶榄车乘客,Tram passenger,Peak Tram Passenger,榄车乘客
+山顶榄车站,Peak Tram stations,山顶榄车车站,榄车车站,榄车站,Peak Tram stops 
+山顶榄车路线,Peak Tram route,榄车路线,Tram route,榄车径路綫
+工人注册证,Registered worker certificate,Worker registration certificate,registered laborer certificate,enrolled worker certificate,enrolled laborer certificate,login worker permit,registered worker licence,工人注册证明书,工人注册凭照,工人注册卡,工作者注册证
+工地人员,Site personnel,Site staff,工地员工,扎铁工人,扎铁佬
+工地会议记錄,record  of a site meeting ,工地记錄,工地工程会议纪录
+工地简报会,briefing to site personnel,site meeting,工地工程简报会
+工作人员,personnel,staff,员工
+工作日志,logbook,log book,logbooks,log-book,log-books,log books,lift logbook,lift log book,lift log books,升降机工作日志,𨋢工作日志,升降电梯工作日志,work records,工作纪录
+工作守则,code of practice,守则,rule,regulation,规则,规矩,条例,规例,cop
+工作表现扣分制度,Performance Monitoring Point System,扣分制度,扣分制,PMPS, PMS,Performance Monitoring System,表现评级
+工作许可证,permit-to-work,work permit,permit to work
+工作照明,task lighting
+工作经验,work experience
+工作证明文件,Work certificate,工作证明,certificate,工作证明文件,工作证明书
+工具,家伙,家器,用具,tool,device,utensil,aid
+工商业用自然预混式炉头,大眼鸡炉头
+工商业用组合式炉头,层笔
+工商业炉具的磁吸掣,啜掣
+工程,project,undertaking,engineering,施工,constructiont,建造,建设,项目,计划,工程建设
+工程公司,project company,construction organization,Engineering Company,建造公司
+工程服务,project services, construction services,engineering services, 建造服务,项目服务
+工程服务科,Engineering Service Branch,Engineering Service Branch 1,2,3 工程服务科1,3 
+工程师,engineer
+工程师注册条例,Engineers Registration Ordinance,Cap 409,Cap. 409,第409章,409章,chapter 409
+工程部,engineering department,engineering service
+工程进行中,During construction
+工程范围,scope of
+工程学,工程科学,工学,engineering
+工业,industrial,industry,工业区,工商业,industrial and commercial,commercial and industrial
+工业建筑物,Industriall building,factory building,manufacturing building,工业大厦,工业大楼
+干扰,interfere,interference,jam,obstruction,打扰,烦扰，干预,
+不合格,不合标准,不合规格,不达标准,唔合标准,唔达标准,不符合标准,唔符合标准,唔合格,failed,unqualified,below grade,substandard,below standard 
+不良影响,adverse effects,负面影响
+不使用,not use,not in use,no use,冇使用,无使用,唔使用,没有使用,唔用,,唔洗用
+不依从,fails to abide,不遵从,不遵守,不跟从
+不涉及,not involving,not involved
+不能,唔得,未能,唔到,无法,不到,不了,不能够,不可以,唔可以,唔能够
+不理想,poor performance,不符合预期
+不符合,not comply with,不遵守
+不锈钢,Stainless steel,不锈耐酸钢,不锈钢
+不慎,不小心,careless,粗心
+不会影响,not affect,不受影响,没有影响
+不满意,unsatisfaction,失望,不符合预期,落差
+不尽相同,not the same,不一样
+不确定,唔肯定,唔sure,唔清楚,不清楚,唔确定,不肯定,uncertain,not sure
+不适用,不包括,适用,唔包括,唔适用,唔包
+不銹钢板,Stainless steel plate,不锈耐酸钢板,不锈钢板
+不愿意,don't want to,refues to,unwillingly,唔愿意,唔想
+不锈钢,stainless steel
+中心冲,奔字
+中文,中国话,中国语言,汉语,Chinese,Chin
+中文版,中字版,chinese version,chinese ver,chin ver,
+中止参加,discontinue participating
+中央,central,middle,center,中心,中间,正中,
+中央供气,central gas supply,集中供气
+中式炒镬炉炉头基座,风兜
+中国大陆,内地,国内,中国,大陆,China,PRC,mainland China,mainland
+中国建设银行,建设银行,CCB,建行
+中国银联,union pay,银联,unionpay
+中场客运大楼,Midfield,香港国际机场中场客运大楼,Hong Kong International Airport Midfield Passenger Terminal,Midfield Concourse,中场客运廊,中场客运
+中银,bank of china,中国银行,BOC
+中学生,middle school student,high school student,secondary school student,
+互动资讯站巡回,Interactive Roadshow,Interactive information station tour,互动资讯站,consoles,Interactive Information Station,资讯站
+互通,Interconnection,互连
+互认,互相承认,recognized,mutual recognition,认唔认可
+五年检,five year examination,5-year examination,5-year inspection,Five-year inspection,Five-year checking,5-year checking,Five-year review,Five-year parade,五年检查,五年检阅
+五座位,5-seater,5 座位,5 seats,five seats,five-seater 
+井道维修,builder's works in the lift shaft,Shaft maintenance,well road maintenance,pit maintenance,builder's works in the lift pit,lift shaft repair work,lift pif repair work,井轴维修,轴维修,井道维修工程,轴维修工程
+什么款式,what style,which style,which type,what type,which model,what model,乜款,咩款,边款,边种,神马款式,哪个款式,哪个型号
+今天日子,今日日期,今日日子,today's date,the date today,
+今个月,this month,current month,这个月,呢个月
+介定,define,界定,决定范围,划定界限,定义,definition,scope,classify,classification
+介绍,简介,系咩公司,背景,话我知,什麽公司,什么公司告诉我,关于,系乜公司,introduce
+元朗,Yuen Long
+内外牙曲,斗曲,烟斗,烟斗曲
+内外牙梳结,神仙刁
+内容,content,正文,本文
+内部,internal 
+内部实验室, in-house laboratories,Internal laboratory,inside lab,inner laboratory,interior laboratory,inscribed laboratory,内实验室,自家实验室
+内部检验,internal examination
+内部翻新,interior decoration,Interior renovation,internal decoration,Internal renovation,the  refurbish of interior,ornmament of interior,garinish of interior,interior adorn,内裏翻新,内部装修,内部布置,内裏装修
+内置燃料泵,internal fuel pump
+内需,内部需求,domestic demand
+内螺纹,乸,内牙纹
+公用地方,common area,公共地方,piublic area,common room,public place,公共区域,公共空间
+公共工程承建商,approved suppliers of materials and specialists contractors for public works,approved suppliers of materials  contractors for public works,公共工程物料供应商
+公共工程物料供应商,suppliers of materials
+公共交通交汇处,Public Transport Interchange,Public traffic interchange,public communication interchamge,mass traffic interchange,mass transport interchange,public conveyance interchange,大众交通交汇处,公众交通交汇处,大众运输交汇处,公共运输交汇处
+公式,式,formula
+公布,make the public known,发布,发表,展示
+公益,慈善活动,慈善服务,做福社会,charity,公众利益,社福,公共利益,社会责任,社区关怀
+公务员建屋合作社,Civil Servants' Co-operative Building Society,CBS,Civil Servants' Cooperative Building Societies,公务员建屋合作协会,公务员建屋合作会,Civil Service Housing Cooperative
+公众地方,public area
+公众卫生及市政条例,Public Health and Municipal Services Ordinance,Cap 132, Cap.132,第132章
+公众咨询热线,public enquiry hotline,hotline,cs telephone number, cs contact number
+公寓,apartment,lodging house,apartments house,住宅,服务式公寓,service apartments
+公开,Proiveded for public 
+公开资料,Access to Information
+分布,distribution
+分别,不同,唔同,不一样,唔一样,差异,差别,不相同,唔相同,相异,有别,分别,different,not same,difference,not the same,区别
+分享,send,share,转发,传给别人,转给其他人,转给他人,传畀人
+分站,分段,stage,division
+分配机,分配器,dispenser
+分喉,供气分喉,上给供气分喉,gas service risers,gas service riser
+分解,broken down,剖析,分析
+分销商,distributor 经销商,
+分辨,辨认,分出,分到,识别,区分,identify,
+分体式冷气机,分体式空调,分体式空调机,分体式净冷,split type air conditioners,split-type air-con,分体式冷气
+化石燃料,Fossil Fuel,矿石燃料
+化学,chemistry,chem
+化学名,chemical name
+化学杀菌剂常,Chemical biocides,Chemical Fungicide,Chenmical antiseptic,Chemical bactericide
+升降机大型维修,large-scale repair works and replacement of lifts,Major maintenance of lift,broad- scale repair works and replacement of lift,wide- ranging repair works and replacement,升降机大规模维修工作,升降机大规模修复工作,升降机大规模修理
+升降机大堂,lift lobby,lift hall,lift antechamber,lift antehall,lift lounge,elevator lobby,elevator hall,升降电梯大堂,垂直电梯大堂,𨋢大堂,升降机大厅,升降电梯大厅
+升降机工程,lift works,elevator works,lift engineering,elevator engineering,lift project,elevator project,lift undertaking,elevator undertaking,升降电梯工程,垂直电梯工程,𨋢工程,电梯工程
+升降机工程及自动梯工程实务守则,Code of Practice for Lift Works and Escalator Works,rule of Practice for Lift Works and Escalator Works,regulation of Practice for Lift Works and Escalator Works,legislation of Practice for Lift Works and Escalator Works,law of Practice for Lift Works and Escalator Works,statute of Practice for Lift Works and Escalator Works,enactment of Practice for Lift Works and Escalator Works,升降机工程及自动梯工程实务规条,升降机工程及自动梯工程实务规则,升降机工程及自动梯工程实务规例,升降机工程及自动梯工程实务法规,升降机工程及自动梯工程实务法例
+升降机井道,lift pit,lift shaft,elevator pit,elevator shaft,lift tunnel,lift gallery,升降机机槽,升降机井底,升降机槽,升降机槽底,𨋢机槽
+升降机及自动梯设计及构造实务守则,Code of Practice on the Design and Construction of Lifts and Escalators,legislation of Practice on the Design and Construction of Lifts and Escalators,law of Practice on the Design and Construction of Lifts and Escalators,statute of Practice on the Design and Construction of Lifts and Escalators,rule of Practice on the Design and Construction of Lifts and Escalators,enactment of Practice on the Design and Construction of Lifts and Escalators,升降机及自动梯设计及构造实务法规,升降机及自动梯设计及构造实务法则,升降机及自动梯设计及构造实务条例,升降机及自动梯设计及构造实务法例,升降机及自动梯设计及构造实务规例
+升降机主钢榄,suspension ropes,Main steel cable of elevator,suspension cord,suspension string,suspension ropes of elevator,suspension ropes of lift,升降机吊榄,升降机主要钢榄,垂直电梯机主钢榄,𨋢钢榄,𨋢主 钢榄
+升降机再生电力,lift regenerative power,升降机节能,升降机电力回生,𨋢再生电力,𨋢电力回生
+升降机安全夹,lift safety gear,Lift safety clip,elevator safty gear,elevator safty clip,lift safty folder,Lift safety narrow lane,elevator safty folder,安全夹,升降机保安夹
+升降机年龄,lift age,lift龄,𨋢龄,𨋢年龄,elevator age
+升降机自动关门,car door to close automatically,The lift closes automatically,lift gate closed automatically,lift phylum closed automatically,lift gatewayclosed automatically,lift ostum closed automatically,elevator gate closed automatically,elevator phylum closed automatically,elevator gateway closed automatically,elevator ostium closed automatically,升降机的门自动关闭,升降机大门自动关闭,升降机闸自动关闭,垂直电梯门自动关闭,垂直电梯大门自动关闭,𨋢自动关闭,𨋢闸自动关闭
+升降机房,lift machine room,elevator machine room,lift engine room,lift generator room,elevator engine room,elevator generator room,升降机机舱,电梯机房,垂直电梯机房,𨋢机房
+升降机门,lift door,lift gate,lift phylum,lift gateway,lift ostum,elevator gate,elevator phylum,elevator gateway,elevator ostium,升降机的门,升降机大门,升降机闸,垂直电梯门,垂直电梯大门,𨋢门,𨋢闸
+升降机门重开,re-open lift door,re-open lift gate,re-open lift phylum,re-open lift gateway,re-open lift ostum,re-open elevator gate,re-open elevator phylum,re-open  elevator gateway,re-open elevator ostium,重开升降机的门,重开升降机大门,重开 升降机闸,重开垂直电梯门,重开垂直电梯大门,重开𨋢门,𨋢闸重开
+升降机保养合约,Lift maintenance contract,lift maintenance agreement,lift maintenance deal,lift maintenance compact,lift maintenance bargain,lift maintenance covenant,elevator maintenance contract,升降电梯保养合约,升降机保养合同,垂直电台保养合约,垂直电梯保养合同,
+升降机保养承办商,lift maintenance contractor,升降机保养公司,升降机保养的承办商,升降机保养商,电梯公司,维修电梯公司,𨋢保养合约,𨋢保养合同
+升降机保养价格,lift maintenance fees,lift maintenance expense,lift maintenance charge,lift maintenance expenditure,lift maintenance spemding,lift maintenance cost,lift maintenance expenses,lift maintenance rate,lift maintenance toll,lift maintenance fermium,elevator maintenance fees,elevator maintenance charge,elevator maintenance cost,elevator maintenance expense,升降机保养价钱,升降机保养费,升降机保养费用,升降机保养收费,升降电梯保养价格,垂直电梯保养价格, 𨋢保养价格
+升降机负重限制,weight restriction,Lift weight limit,lift weight stint,lift weight confine,the weight limitation of lift,升降机负重,升降机负重能力,升降电梯负重限制,垂直电梯负重限制, 𨋢负重限制
+升降机负责人,lift responsible person,lift RP,升降机的负责人,responisble person for the lift,RP for the lift,principal of lift,personal in charge of lift,elevator responisble person,responsible people of elevator,升降机负责者,升降电梯负责人,垂直电梯负责人, 𨋢负责人
+升降机准用证,use permit of the lift, lift use permit,升降机准用证,升降机准许证,升降机准用证书,升降机准用证明,升降机准用证书,电梯准用证,电梯准许证,电梯准用证明,电梯准用证书,𨋢准用证,𨋢准许证,𨋢准用证书,𨋢准用证明,𨋢纸,升降机纸,电梯纸,升降机use permit,电梯 user permit, 𨋢 use permit
+升降机条例,lift ordinance,lift regulation,lift rule ,lift act ,lift article,lift gauge,lift divider,elevator orinance,law of elevator,elevator regualtion,升降机规例,升降机规则,升降机法则,升降机法例,升降机守则,𨋢条例,𨋢规例
+升降机通风系统,lift ventilation fan,抽风系统,抽气扇,抽风设备,lifting fan,lifting fan system,ventilation system,ventilation setting,升降机抽风系统,升降机抽气扇,升降机抽风设备
+升降机闭路电视,closed-circuit television of the lift,CCTV of lift,CCTV of elevator,升降电梯闭路电视,垂直电梯闭路电视,𨋢CCTV,𨋢闭路电视,升降机监视器
+升降机开关速度,overspeed of door opening and closing,opening and closing speed,rate of door opening and closing,veocity of door opening and closing,pace of door opening and closing,tempo of door opening and closing,quickness of door opening and closing,升降机门开关速度,升降机门开关速率, 𨋢门开关速度
+升降机路轨,guide rail,lift guide rail,lift rail,lift track,lift path,lift course,elevator guide rail,elevator rail,elevator track,elevator path,升降机轨,升降机轨道,升降电梯路轨,垂直电梯路轨,𨋢路轨
+升降机运作,lift operation,elevator operation,lift action,elevator action,lift working,elevator working,lift running,elevator running,lift functioning,elevator functioning,升降机操作,垂直电梯运作,升降天梯运作,𨋢运作
+升降机图则,plans of lifts, project of lifts,design of lifts,map out of lifts,plans of elevators,project  of elevators,design  of elevators,map out of elevators,升降机计画,升降电梯图则,垂直电梯图则,𨋢图则
+升降机紧急装置,the emergency device of lift,urgency device of lift,fist aid deveice of lift,the emergency device of elevator,the urgency device of elevator,fist aid device of elevator,the emergency equipment of lift,the urgency device of lift,升降机紧急设备,升降机紧急设置,𨋢紧急装置,𨋢紧急设备,𨋢紧急设置
+升降机机房,lift machine room,elevator machine room,lift engine room,lift generator room,elevator engine room,elevator generator room,升降机机舱,电梯机房,垂直电梯机房,𨋢机房
+升降机灯制,the buttons of lift,button of elevator,light switch of lift,light switch of elevator,升降机制 
+升降机优化工程,lift modernisations,lift modernisations works,lift modernisations project,lift Optimization project,lift Optimization works,lift majorization,lift majorization works,lift majorization projct,升降机优化项目,升降电梯优化工程,垂直电梯优化工程,𨋢优化工程
+升降机检查,lift inspection,lift examination,lift checking,elevator inpection,elevator examination,elevator checking,升降机检阅,升降机检测,升降机测试
+升降机额定负载,lift capacity,Rated load of elevator,load restriction,burden restriction,Lift load limit,lift load stint,lift burden confine,the burden limitation of lift,升降机负载,升降机负载能力,升降电梯负载限制,垂直电梯负载限制, 𨋢负载限制
+升级,晋级,promoted
+天水围,tin shui wai
+天台,roof top,露台,平台
+天花板表面,ceiling surfaces
+天然,natural
+天然气,natural gas 
+太子,prince edward
+太空囊式烤肉炉,烤肉炉,gas-fired meat roaster,enclosed type of gas-fired meat roaster
+太空囊式燃气烤肉炉,enclosed-type gas-fired meat roasters,太空囊式燃气烤炉
+太阳能,solar energy,solar power
+太阳能板,solar PV panels,solar panel,photovoltaic panel
+太阳能板生产厂家,solar panel manufacturer,manufacturer,太阳能板厂家,太阳能电池板生产厂家,太阳能板制造商
+太阳能发电系统,PV system,太阳能系统,solar PV system,太阳能装置,光伏系统,太阳能光伏系统,photovoltaic system,solar photovoltaic system,太阳能发电,Photovoltaic System,solar panel
+太阳能热水系统,solar water heating system,太阳能热水器,太阳能热水设备,太阳能热水炉,solar water heating panels
+太阳辐射,radiation,Sun radiation,太阳微波辐射,solar radiation
+少于,平过,少过,唔使,以下,至多,最上,最多,maximum,max,上限,upper limit,ceiling,最高,最长,below,less than
+尺码,尺寸,size,长短,大细,大小,尺码,dimension,magnitude
+引入,Adopt,采用,引进
+户喉,installation pipes
+手册,handbook,guideline,guidance
+手动分配机,manual dispensing machin,分配器,手动分配器
+手推车,trolley
+手提气体采探测器,黄枪
+手提动力操作工具,hand-held tools,手工具及动力手工具
+手机,手提式电话机,手提电话,流动电话,手提,hand carry,portable,hand-held,mobile,可携带式,轻便式,手电,mobile phone,cellular phone,cell phone,cellphone,hand phone
+手机充电器,phone chargers,phone charger
+手续,procdure,process,formalities,程序,要点做
+手续费,handling fee,行政费,handling charge,service fee
+支付,俾钱,pay,比钱,付款,畀钱,付钱,付费,缴付,交付
+支票,cheque,check
+支援,support,支持
+文化,culture
+文件,document,file,papers,文献,文档,公文,档案,archives,record,档
+文字,words,written system
+文凭,专业文凭,diploma
+方向,目标,方位,趋向,direction,supervision,target,objective,goal,aim,intention,vision,抱负
+方式,manner,mode,模式,方法,样式,形式
+方便,便利,convenient
+方面,aspect,side,field,facet,criteria,准则
+日子,日,日期,date,day,time
+日文,日语,日本话,日本语言,japanese
+日光,Daylight 
+日常保养,routine maintenance,恒常保养,Daily maintenance,constant mantenance,consistent maintenance,persistent maintenance,一贯保养,常保养
+日期,date 
+月台,platforms,platform,railway platform,站台
+月台闸门,platform gates,闸门,automaic platform gate, APG
+止回阀,水鱼
+止动准确度,stopping accuracy, stopping accurateness,stopping preciseness,halting exactness,suspending delicateness,stopping punctuality,停止准确度
+比例,ratio,比率,rate,proportion,scale,percentage,比值,百分比,百分率,百分数
+比较,比对,compare,相比,compared with
+水,water,liquid
+水力能,hydro power,水能,水力发电,水力能应用,Hydropower,Hydraulic energy,Hydroelectric energy
+水平,水准,标准,程度,level,standard,等级
+水冷型空调系统,Individual water-cooled air-conditioning systems,水冷空调系统,water-cooled air-conditioning system,water-cooled air-conditioning insitution,water-cooled air-conditioning equipment,水冷冷气系统,水冷空调装置,水冷冷气装置,水冷空调制度
+水封式,water-sealed
+水泵,water pumps,抽水水泵,抽水机
+水泵钳,爪钳
+水流,Water folw
+水流量感应器,转子
+水浸,flooding,淹浸,水淹,Submerged
+水务设施,Waterworks
+水务署,WSD,Water Supplies Department,Water Supplies Division,Water Supplies Branch,Water Supplies unit
+水量,water capacity,水容量
+水源,Water sources
+水管,Pipeworks,aqueduct,ditch,gully,conduit,fosse,水喉,水道,沟渠,渠道,渡槽,水渠
+水线,earthing,地线
+水线连接,earthing connection,地线连接
+水质,Water quality 
+水龙头,龙头,出水口,tap,spigot,faucet
+火水,Kerosene,paraffin,煤油,火油
+火牛房,transformer room,电掣房,掣房
+牙刷,toothbrush
+牙刷充电器,toothbrush charger,tooth brush charger,toothbrush chargers
+主要,main,primary,major,principal,chief ,首要
+主要更改工程,major alteration works,主要更改,Major changes works,Major changes projetc,major alteration project,major alteration works ,major variation works,major mutation works,主要改变工程,主要更改项目
+主要装修工程,Major retrofitting works,Main renovation works,Major modernization work,mian decoration job,Pirncipal retrofitting works,chief renovation works,pimary modernization job,主要装潢工程,主要装修工作,主要修改工程,主要更新工程,mrw,major retrofitting work,retrofitting,更新工程
+主喉,mains,host pipe,main pipe,主要喉管
+主题,topic,题,theme,subject,议题,话题,题材,issues
+代用天然气,substitute natural gas
+代表,表示,替代,代,替,意味,象征,represent,symbolize,mean,on behalf of,representative,delegate,deputy,stand for 
+代为,帮我,替我
+代理,proxy,on behalf of,agent,
+代替,substitute,replace,替代,取替,
+代码,编码,code
+充电器,叉电器,叉机,charger,recharger
+刊物,publications,journal,periodical,刊,期刊,newspaper,bulletin,revenge,circular,publication,宣传刊物,leaflet
+加建工程,Retrofitting works
+加气枪,LPG filling nozzles
+加装,installed,装置
+加热,heating 
+加湿器,放湿机,humidifier
+加签,endorse,endorsement,
+包唔包,包埋未,包咗未
+包装,packing
+北角,north point
+北部供冷站,Northern DCS Plant,Northern DCS Plant Station
+半软硬不绣钢喉,黄喉,半软硬金属接驳喉
+卡式石油气瓶,LPG cartridge,只用一次石油气瓶,一次性石油气瓶,卡式石油气罐,disposable LPG cylinder,disposable cylinder,disposable cartridge,camping gas cylinder,卡式瓦斯罐
+卡式石油气炉,cassette cooker,cassette gas cooker,cassette LPG cooker,cassette stove,卡式炉,卡式瓦斯炉,卡式gas炉
+另一日,另一天,another day
+只交,submitted alone,submitted seperately,submitted only 
+可再生能源,renewable energy resources,renewable energy
+可再生能源证书,RE Certificates,renewable energy certificate
+可换缧丝批嘴的齿轮式扳手,勒勒批
+可靠性,Reliability,稳当
+可变制冷剂流量系统,variable refrigerant volume,VRV,可变冷媒流量系统,可变制冷剂流量
+变频变压的驱动器,variable voltage variable frequency drive, vvvfd, 变频变压的驱动器
+变频的驱动器,variable frequency drive, vfd, 变频驱动器
+行动通讯接取点,Mobile AP, Mobile Access Point
+司机,driver,chauffeur,揸车嘅人,汽车司机,驾驶员
+四座位,four-seater,4位
+外星人,宇宙人,外星生物,Extraterrestrial intelligence,ET
+外展,outreach
+外壳,壳,shell,case,外壳装置
+外佣,domestic helper,家佣,工人姐姐,印佣,菲佣,泰佣,外籍佣工,外籍家庭佣工
+外闸,external gate,external door,external phylum,external gateway,external ostium,externial entrance,外面大门,外门,外门口,外面闸
+外螺纹,公,外牙纹
+奶茶,milk tea
+市民权益,citizen's rights,national's rights,city resident's rights,citizen's authority,citizen's expediency,citizen's advantageous position
+市政,urban
+市政大厦,Municipal services,Municipal Services Building,Municipal Services Hall,市政厅,市政服务大厦,市政服务大楼,市政大楼,市政府大楼,行政大厦,市政办公大楼,
+市政工程部,Municipal Sector Division
+市区重建局,Urban Renewal Authority,市建局,URA,City Renewal Authority
+市场,market,marketplace
+平台,Podium,platform,stage,dais,rostrum,stand,plank,board,天台,台,站,板,台子,高台
+平顺,smoothness,平滑,顺滑,柔滑
+平层,levelling,对平层
+平层准确度,levelling accuracy,levelling accuranteness,levelling preciseness,levelling exactness,levelling delicateness,levelling punctuality,平层精准度,对平层准确度,对平层精准度
+必须,Necessary,一定,必定 
+必须的安全装置,Essential safety devices,necessary safety devices,required safty devices,indispensable safty devices,Essential safety equipment,necessary safety apparatus,required safty implement,必要安全装置,必须安全设备,必须安全设置
+打火机,lighter,cigarette lighter
+打防水针工程,wall waterproofing work,Waterproof injection project,wall waterproofing project,wall waterproofing item,wall waterproofing engineering,wall waterproofing plan,打防水针项目,打防水针计画
+未来,future,将来
+未来发展,furture developments,将来发展
+未关上,have not been closed,没有关上,没有合上,尚未关闭
+本公司,我哋公司,我司,敝公司,our company
+本地制造商,manufacturing
+本周,今个星期,今星期,今个礼拜,本星期,呢个礼拜,呢个星期
+正常,典型,normal,standard,usual,typical
+正确,correct,无误,精确,切确,准确
+生日,诞辰,生辰,寿辰,诞日,birthday,出生日
+生物沼气,biogas,沼气
+生物柴油,biodiesel,bio-diesel,生化柴油
+生效,Effective date
+生效时间,effective date,effective time
+生产地点,manufacturer's place,production location
+生銹钢榄,rusting suspension ropes
+用户手册, user manual,用户条款及细则,用户册子
+用户喉,installation pipe,installation pipes,气体用户喉,gas installation pipe,gas installation pipes
+用户感应器,occupancy sensor,occupancy transducer,user sensor,customer sensor,purchaser sensor,用户感应系统,使用者感应器,使用者感应系统,客户感应器,用户感应仪器,用户感应仪,customer transducer,purchaser transducer,user transducer
+用户装置分部,consumer installations sub-division,用户装置分部1,2 
+用户,user,用家,使用者
+用户喉, Installation Pipes
+用途,用处,作用,use,application,purpose,function
+用电量,energy consumption
+用罄,used up,用完,用曬,用尽,use up,run out,empty
+甲/乙/丙级写字楼,grade A/B/C offices
+申诉,Complaints,上诉
+申请,Application,apply,apply for,请求,申办
+申请者,申请人,申请人士,applicant,candidate
+申请表格,application form,申请书,申请书表格,申请表,表格,form,entry form,application table,application tabulation,entry table,entry tabulation
+申请表格3,申请表 3,application form 3,表格 3,form 3
+申请费用,application fee,application cost,application spending,application expense,application price,application charge,application value,application rate,申请成本,申请花费,申请价钱,申请价格,申请费
+申请资格,qualifications,application qualification,资格
+白色,white
+白色卡,白卡,white card
+白胶布,Steam胶布
+目的,Objectives,purpose,point,aim,goal,reason,motive,intention,目标,方针,宗旨,原意,主张,目标宗旨,用意,意向,意图,计划,期望,target,objective,plan
+石油气加气站,加气站,gas station,filing station,石油气加气站,LPG Filling Station
+石油气生产商,LPG vehicle manufacturer,石油气生产家
+石油气车辆燃料系统,LPG vehicle fuel systems,燃气车辆燃料系统,石油气燃料系统,LPG fuel system,燃料系统,fuel system
+石油气车辆燃料缸,燃料缸,LPG vehicle fuel tanks
+石油气品质抽验计划,LPG Sampling Scheme, LPG Sampling project,石油气品质抽验项目
+石油气唧车,LPG powered forklift truck
+石油气库,LPG compounds
+石油气推动的铲车,LPG-powered forklift,liquiefied petroleum gas powere forklift
+石油气瓶,LPG cylinder,瓶装石油气,,石油气罐
+石油气瓶车,LPG cylinder wagon,cylinder wagon,石油气车辆,LPG vehicle,燃气车辆,LPG wagon
+石油气瓶储存室,LPG storage chamber,储存室,storage chamber,石油气瓶储存间
+石油气喷注系统,LPG fuel injection system
+石油气燃料泵,燃料泵,LPG fuel pump,fuel pump
+石油气燃料缸工场,workshop,工场,site,工作场地,工作场所,LPG fuel tank workshop
+石油气储存器,LPG container,LPG storage,
+立法会,香港特别行政区立法会,Legislative Council of the Hong Kong Special Administrative Region,Legislative Council,LegCo,Legco
+立法会答问文件,replies in LegCo,LegCo Question and Answer Document,立会答问文件,立法会答问,立法会讨论文件,立会讨论文件
+交流配电板,AC distribution board,交流配电盘,AC distribution  box,AC distribution  panel,AC distribution system,AC distribution block
+交流电,交流电流,Alternating Current,AC
+交接事项,handover
+交通,交通工具,运输,traffic,transport
+任何,any
+任何人士,Any person
+企位,standing passengers,站位
+企业,公司,company,companies,enterprise,corporate,operator,operators,firm,business
+企业目标,business goal,enterprise target,business objectives,corporate goal,经营目标,营运目标,公司目标
+伏特,V,伏
+休息,放假,唞吓,唔使返工,holiday,break,rest,
+光伏电池,photovoltaic cell,太阳能电池,solar cell
+光敏感测器,photocell sensor,Light sensor,photocell transducer,useer transducer,purchaser transducer,光敏感测仪,光敏感测系统,光敏感测仪器,
+光辐射,optical radiation,光照辐射,光学辐射
+全包保养合约,comprehensive maintenance contract,All-inclusive maintenance contract,thorough maintenance contract,overall maintenance contract,all-around maintenance contract,complete maintenance contract,全方位保养合约,全面保养合约,周全保养合约,周详保养合约
+全面保养,comprehensive maintenance services,all- inclusive maintenance service,thorough maintenance service,overall maintenance ministry,all- around maintenance service,全方位保养,周全保养,周详保养
+全个姓名,全名,full name,whole name,entire name,整个名字
+全球,worldwide,全世界
+全球变暖潜能值,GWP,Global warming potential,全球暖化潜势,全球升温潜能值,global warming potential
+再生能源发电设施,RE generating facility
+再次申请注册时,register again,reregister,
+再见,拜拜,bye,goodbye, good bye, see you,再会,886
+冰格容积,Frozen Food Volume
+列车,train,火车,高铁,地铁 
+列车出轨事故,train derailment,Train derailment accident,列车出轨,列车出轨事件,derailment
+列车安全,train safety,火车安全
+列车自动保护系统,Automatic Train Protection,ATP,列车自动保护
+列车自动操作系统,Automatic Train Operation,列车自动操作,ATO
+列车车长,Train Captaindrives,Train driver,车长,train conductor
+列车相碰事故,the train collision incident,列车相碰,列车相碰事件
+列车种类,car formation,列车编队,列车类别
+印制,打印,印刷,print,copy,列印
+危险,dangerous,danger,威胁,风险,menace,hazard,threat,risk,peril,危害,险境,危机
+危险气体装置通告,Dangerous Gas Installation Notice
+危险警告牌,警告标示,警告标签
+各种,各款,各类,各样,different,a variation of,varied 
+各种技术规格,different technical specifications,
+合成天然气,synthetic natural gas,SNG
+合约,合同,承包,契约,contract,agreement,
+合约期,operation contract,contract period,contract term,营运合约
+合格证明书,certificate of compliance,certificate of qualified,certificate of eligible,certificate of authorized, credentials  of compliance,vouvher  of compliance,evidence  of compliance,permit  of compliance,license  of compliance,合格证书,合格证明,合格凭证,合格证,合资格证明书,合资格证书,合资格证
+合资格人士工作表现扣分制度,Competent Person Performance Monitoring Point System
+合资格的操作员,competent operator,持牌操作员,合资格操作员,competent mainpulator,licensed operator,licensed mainpulator,合格操作员,合格操作人员,持牌操作人员,合资格操作人员,操作员,操作人员,operator
+吊船,Gondolas
+吊笼,升降机吊笼,曳引式施工升降机,Traction Drive Builders Hoist
+同一天,同一日
+同一个,用一个,同一样
+同时,一齐,一起,合并,merge,兼并,归并,统一,合一,togehter,与,一同
+同类,concern peer,关注同伴
+名字,姓名,咩名,乜名,人名,朵,name,given name,personal name,称呼,名称,叫做,叫乜嘢,叫咩嘢,怎样叫,怎麽叫,怎么叫,点样叫,如何叫,点叫
+名单,list,name list,roster,榜,名册,register,roll
+回本期,Payback period,回报期,回收期,成本回收期
+回收,recycle
+回应,回答,回覆,reply,回复,交代,反应
+回应时间,response time,回覆时间,响应时间
+在地下电榄附近进行的工程,works in the vicinity of underground cables,在地下电榄附近进行的项目,在地下电榄附近进行的计划
+在线预约系统,Online appointment system,Online appointment setup,Online appointment insitution,Online appointment organization,Online appointment equipment,线上预约系统,Online booking system,网上预约系统
+地下水管,Underground chilled water pipe,Underground water pipe,Underground chilled water tube,Underground chilled water duct,Underground chilled water cannulation,地下冷冻水管道,地下冷冻水管,地下冷冻水喉,地下水喉
+地下石油气喉管道,Underground LPG pipework,underground LPG pipes,地下石油气喉管,地下石油气管道
+地下供电电榄,the vicinity of underground electricity supply,地下供电榄
+地下电榄,the vicinity of underground electricity,地底电榄
+地下电榄探测报告,Cable Detection Report,地下电榄勘探报告,地下电榄勘探报告书,电榄探测报告
+地台,saloon floor,floor,地台,平台
+地底,underground,below ground level,地面以下,地下
+地政总署,LandsD
+地库,basement,地窖,地下室
+地库停车场,地底停车场,地底泊车位,parking lot at basement,basement carpark,basement parking space
+地热能,Geothermal Energy,地热
+地热能泵,ground-source heat pump,地源热泵,地源热泵系统,地热能泵系统
+地盘,建筑工地,建筑地盘,施工地盘,site,construction site
+地盘物料机,Site Material Machine,site work material machine,Site Material aircraft,Site Material engine,Site Material apparatus,Site Material instrument,Site Material appliance,地盘物料机器,地盘物料机械
+地盘监工,site foreman
+地铁,MTR,Mass Transit Railway,地下铁路
+多久,how long,每多少年,多少年,多长时间,几耐,几多时间,多少时间,多少日,多少天,几长时间,几多天,几多日,how often
+多少,how many,多少间,数目如何,数目,数量,几多
+多于,多过,more than
+多长,how long,what is the length of,几长
+多间,more than one,多于一间
+好处,Benefits,beneficial,interest,profit,advantage,gain,favor,kindness,reward,效益,利益,惠,益处,利,得益,优点,perk,good,长处,优势,好,正
+如新,as new,好似新,就如新,像新
+字母,letter,alphabet
+字样,字形,typeface,font,
+存货,stock,货存,有货,库存
+存量,stock,inventory,存咗几多
+安全,safe,safety,secure,security,危唔危险
+安全工作距离,safe working distance
+安全及状况良好,safe and sound,safe and in sound condition,安然无恙,平安无事,安全无恙
+安全用水计划,Water Safety Plan
+安全表现,safety performance 
+安全门,safety door
+安全屏障,safety barrier
+安全要求,safety requirement
+安全措施,safety precautions,安全须知,安全设施,安全防范,安全方法
+安全组别,safety classification,安全分类
+安全规格证明书,Certificate of Safety Compliance,符合安全规格证明书
+安全设备,safety protection devices,saftey devices,安全装置,safty equipment,safty apparatus,safty facilities,safty sinstallation,safty implement,安全设置
+安全须知,safety tips,注意的事项,注意事项,注意乜嘢,留意乜嘢,safety guidelines,aware,
+安全认证,safety certification,安全资格,安全规格,safety requirement,安全规则,安全细则
+安全标准, safety standards,Security Standard,安全要则,安全要素
+安全检查,safety inspection,security check,security inspection,safety check,安检,安全检察
+安全检查报告,job record
+安全隐忧,安全问题,safety problem,安全事宜,safety concern
+安全证书,safe certificate,Security certificate,safety credentials,safty voucher,safty evidence,security permmit,sercurity license,安全证，安全证明书，安全凭证，安全凭照
+安装,Install,装置,set up,组装,install,installation,装嵌,installing,装
+年,全年,year
+年度审核报告,Annual audit report,Annual check report,Annual verify report,Annual assessment report,Annual review report,年度检查报告,年度检测报告,年度审查报告,年度检阅报告,年度审阅报告,年度审视报告
+年报,annual report
+年资,资历,任职年限,job tenure,length of service,seniorty
+年检报告记录,The annual examination report,the Annual inspection record,The annual check report,年度检查报告,年度检测报告,年度检验报告
+年龄,年数,岁数,年纪,age,
+年龄限制,age limit,age limitation,几多岁,限制年龄,
+成功,顺利,通过,完成,奏效,work,success,succeed
+成本效益,Cost-effective approach,Cost-effectiveness,cost efficiency,cost-benefits,cost- effectively
+成立,establish,founded,
+成份,ingredients,component,constituent,composition,content,元素,element,elements,factor,factors,因素
+成因,cause,原因,因素,Factor,要素,起因
+成员,Members 
+成员名单,member list,the list of member,成员清单
+收水器,Drift eliminator,float eliminator,bleach eliminator,收水系统
+收回,收返,call in,regained
+收到,接收,receive,收
+收取,Impose,征收
+收纳,Storage,储物
+收费原则,charging principle
+收集商,collectors,
+收藏,收集,collection,采集,collect,搜集
+有人,someone,某人
+有冇货,有没有货
+有些,某些,有的,有D,some,有啲
+有波灯的榄索,marker cable,Cable with wave lights
+有要事,有啲事,有d事,有重要事,有事
+有效,valid 
+有问题,problem,defect
+有喉牙短喉,短仔
+有源探测,passive detection
+有盖停车场,有盖泊车位,有盖车库,covered parking lot,covered garage,covered carpark,covered parking space
+有误,有错,错,错误,唔啱,不对,不正确,唔正确,wrong,incorrect,false
+有机物,organic material,有机
+有关,关连,相关,related
+有关在供电电榄附近工作的实务守则,the Code,Code of Practice on Working near Electricity Supply Lines
+次组别,sub-group,second group,次小组
+次阶段声明,Stage two declaration,Phase Two Statement,Phase two declaration,Second stage statement,The second phase declaration,secondary stage statement,minor phase declaration,following stage statement,第二阶段声明,次阶段说明,次阶段注明,第二阶段说明
+次电路,submain circuit,submain,subcircuit,sub-main,sub-circuit,二次电路
+死角,Dead legs,Dead end,blind alley,impasse,死胡同,末路,尽头
+污水处理厂,sewage treatment plants,污水处理工厂,sewage treatment station,污水处理场,sewage treatment farm
+污染,pollution
+百分位数,percentile
+老化,aged asset,老旧,旧化
+考虑,Consider
+自由参观,freely enter,self-guided 
+自行,自己
+自取,自己取,自己攞货,自己拎,自己攞,自提
+自动扶手梯,escalator,自动电梯,自动梯,扶手梯,扶手电梯,扶手自动电梯,自动扶手电梯,扶手𨋢,moving staircase
+自动梯,Escalator,escalators,电动扶梯,自动扶手电梯,扶手电梯,手扶电梯,手扶梯,滚梯
+自动梯工程,escalator works,escalator project,escalator engine,escalator undertaking,自动梯项目,自动梯计画,自动电梯项目,自动电梯计画,自动电梯工程
+自动梯的扶手带,Escalator handrail,扶手带,handrail,扶手,自动梯扶手,自动电梯扶手带,自动电梯扶手
+自动梯的操作守则,Code of Practice on escalators
+自动梯保养承办商,escalator maintenance contractor,自动梯保养公司,自动梯保养的承办商,自动梯保养商,maintenance contractor of the escalator
+自动梯负责人,escalator responsible person,escalator RP,自动梯的负责人,responisble person for the escalator,RP for the escalator,person in charge of the escalator
+自动梯准用证,escalator use permit,自动梯准用证,自动梯准用证,escalator use license,自动梯允许证,自动梯准许证,自动梯准用证明,自动梯准用证书,扶手电梯,准用证,扶手电梯准用证,escalator use license,扶手电梯,允许证,扶手电梯许证,扶手电梯准用证明,扶手电梯准用证书
+自动开/停自动梯的装置,Device for automatically opening/stopping escalators,equipment for automatically opening/stopping escalators,apparatus for automatically opening/stopping escalators,faacilities for automatically opening/stopping escalators,installation for automatically opening/stopping escalators,implement for automatically opening/stopping escalators,自动开/停自动梯的设置,自动开/停自动梯的设备
+自动驾驶,auto mode,Autopilot,autonomous,自驶,自动行驶,自动运行系统
+自选的安全装置,Optional safety devices,Optional safety equipment,Optional safety apparatus,Optional safety installation,Optional safety implement,自选的安全设置,自选的安全设备,自选的安全装备
+自愿性能源效益标签计划,Voluntary Energy Efficiency Labelling Scheme,VEELS,自愿性能源标签计划
+自愿性能源标签,voluntary energy label,Voluntary Energy Efficiency Label,Voluntary Energy Efficiency Tag,Voluntary Energy Efficiency Tender,VEEL,voluntary energy efficiency labelling,voluntary energy labelling,自愿性能源效益标签,自愿能源效益标签,自愿能源标签,香港自愿性能源效益标签计划
+行人天桥,footbridge,bridge
+行人过路处,pedestrian crossings,地面行人过路处,过路处,
+行人道,人行道,行人路,pavement,footpath,pedestrian way,walkway,footway
+行李,luggages,行装,baggage,行囊,装备,belonging
+行动不便人士,Mobility Impaired Users,People with reduced mobility,行动不便的人
+西北铁路,North-west Railway,轻便铁路
+估值,Estimated,reckon,gauge,appraise,forecast,predict,assess,measure,infer,估算,估量,估计,预计,计量,测度
+位置,location,place,地点,位置,位,地方,space 地点,area,身处
+低效化石燃料,Inefficient Fossil Fuel ,低效矿石燃料
+低碳,Low Carbon Development,减少二氧化碳,low co2,二氧化碳,Carbon Dioxide,CO2,低碳生活
+低压,low voltage,LV,lv,低电压,low pressure,低气压,低伏特
+低压式,low-pressure,low pressure
+低压开关掣版,LV switchboard,低压开关掣
+低压线,low-voltage lines,低压电线
+住用建筑物,住宅大楼,residential  premises,住宅,寓所,居所,Domestic building,internal building,Residential building,用作居住用途建筑物,住宅大厦
+住宅式,domestic,住宅,household,family,home,家居,家庭,屋企,Residential sector,住宅单位,Residential,housing,residential area,residential building,住宅建筑,家用式,住宅用,家中,residential
+住宅建筑物,Residential building,Apartment buildings,domestic building,dwelling building,house,住宅大厦,住宅大楼,住宅公寓,住客建筑物,住客大厦
+住宅气体装置,domestic,premises,domestic gas installations,household gas installation,住宅气体安装
+住宅电梯,residential lift
+占用许可证,Occupation permits,Occupation licens,Occupation excise,Occupation licence,Occupation certificates,占用准许证,占用允许证,占用同意书,占用允诺书,占用许可书
+何时,咩时候,甚麽时候,甚么时候,几时,when,什么时间,什麽时间,哪年,哪月,哪日,what time,神马时候,咩时间
+你好,hi,hello,嗨,哈喽,nice to meet you
+免费,唔使钱,唔收,免收费,free,免收,冇收费,唔洗加钱,不用钱,不用加钱
+免遭,prevent,避免,防止,躲避,躲开
+冷水凝结,cold water condensation
+冷却水,Cooling water,Cool down water,cool off water,
+冷却塔水样本,Water sample,水样本,Cooling tower water sample,Cooling system water sample,Cool down tower water sample,Cooling down tower water sample,Cooling tower water specimen,冷却系统水样本,冷却器水样本
+冷却塔拥有人,Owners of cooling towers,possessor of cooling towers,holder of cooling towers,proprietor of cooling towers,freeholder of cooling towers,keeper of cooling towers,冷却塔持有人,冷却塔拥有者,冷却塔所有人,冷却器拥有人,冷却系统拥有人
+冷冻水,Chilled water,cold water,frozen water,cool water 冷水,冻水,冰水,凉水
+冷冻水管,chilled water pipes,冷冻水水管,cool water pipes,cold water pipes,chilled water tube,cool water tube,chilled water duct,cool water duct,冷水水管,冷冻水水渠,冷冻水渠管,冷冻水水导管
+冷冻器具,refrigerating appliances
+冷冻机,chillers,freezer,冷水机,冰箱, 制 冷 机,chiller
+冷气,air conditioning,AC,Air-con,air- conditioner,空调,冷气机,空气调节,aircon,air con,空调机,room air conditioner,air-conditioner
+冷气电车,air-conditioned tramcar,冷气叮叮
+冷热,冻同热,hot and cold,heat and warm
+冷热水系统,cold and hot water system,hot and cold water system 
+删除,removed,移除,清除
+即时,Immediately,direct,plump,first-hand,prompt,quick,instant,swift,speedy,rapid,expeditious,hurried,马上,立刻,迅速,快速,即刻,顿时,顷刻,速即,当即
+即热式电热水器,即热式热水炉,Instantaneous Water Heater
+吸烟,smoking,抽烟,食烟
+吸尘机,吸尘器,扫除机,oof机,Vacuum Cleaner,vacuum,hoover
+告示牌,notice board,Billboard,announcement board,bulletin board,placard board,公告牌,通过牌,通报牌,公报牌
+夹心阶层住屋计划,Sandwich Class Housing Scheme,Sandwich Class Housing Project,Sandwich Class Housing Plan,Sandwich Class Housing Programme,夹心阶层住屋方案,夹心阶层住屋策划,夹心阶层住屋项目
+妥善维修,proper state of repair,Proper maintenance,correct maintenance,appropriate maintenance,acceptable maintenance,suitable repair,正确维修,合适维修,恰当维修,妥当维修
+妨扰事故通知,Nuisance Notices,encumbrance notice,burden noties,berbalization notices,handicap notices,obsturction notices,retard notices,nuisance announce,阻碍事故通知,障碍事故通知
+完工,Work Completion,fimished,竣工
+完成,completion,finish
+忘记,忘掉,唔记得,忘了,forget,记不起,记唔起
+扮演,play in,饰演
+扶手带清洁器,protruding handrail cleaner,escalator
+扶手电梯玻璃,the balustrade glass,Escalator glass
+找寻,搵,找出,找到,搜寻,搜索,search,find,
+技工,mechanic,technician,skilled worker,机械工,修理工,技术工程人员,师傅,技术员,技术人员,technical person,维修员
+技术,techniques,skill,skilled,technical,技巧,技能,技艺,专业的,专门的
+技术员训练计划,Technician Training Scheme,技术员训练项目
+技术能力,technical skills,technical ability,technical capability,technical capacity,technical gift,技术才能,技术本领,技术能耐
+技术规定,Technical requirements,Skill requirements,technical ability requirement,technical request,skill demand,Technical regulations,技术需求,技术要求,技能要求,技术规限,技术规管
+技术规格,technical specifications,技术细则,技术准则 
+技术资料,technical information,technological information,techinial data,technical materials,technical stuff,技术数据
+投入服务,Start operation
+投诉,complain,complaint,抱怨
+投资成本,Cost investment
+改名,更改名称,更名,转名,change of company name
+改善通知书,Improvement Notice,Improvement announcement,Improvement order,Advancement notice,ameliorate notice,mend notice,reform announcement,reform order,改进通知书,改进令,改善令,improvement order,improvement command,improvement mandate,improvement dictate,improvement decree,improvement instruct,改善通知,改善指令,改善命令,改良通知书,改良令,
+更正,correct,改正,修正,amend
+更多,more
+更好,更劲,好劲,劲啲,劲D,更佳,好D,较佳,较好,好啲,靓啲,better,worse,正d,正啲,靓d,更靓,更抵,较抵,抵d,抵啲,好屎,更差,好渣,好差,糟糕,bad,poor,不良,欠佳,不知所谓,好唔得,shit,worst,最屎,最渣,唔掂,最差,劲屎,劲渣,劲差,最好,定你好,定佢好,好好多
+更换工程,replacement works,change works,subsitution works,displace engine,exchange engine,switch engine,替换工程,更新工程,变换工程
+更换零件,parts replacement
+更新,update,renew,updating,刷新
+每小时,per hours,每个小时 
+每天,everyday,each day,every day,每日,每一天
+每月,every month,each month,每个月,每一个月
+每年,Year 
+每年电费,年计电费,annual electricity charges,year electricity charge,电费
+每架,each,每部,每款
+决定,Decisions 
+汽车升降机,vehicle lift,car lift,车辆升降机,lathe lift,machine lift,castle lift,vehicle elevator,car elevator,车升降机
+沉降,settlement,沉陷,下陷,地层下陷
+沉降幅度,settlement,Settlement amplitude,地层下陷,沉积幅度
+没有人听,没人听,无人听,冇人听,没人接,无人接,冇人接,没有人接,电话长响,唔听电话,打唔通,打唔到,unanswered,no one answer
+冲厕,Flushing
+沙田,shatin
+男朋友,男友,boyfriend,bf
+秀茂坪,sau mau ping
+私人用户,Private coumsumer,私人客户,Private Consuner,exclusive purchaser,exclusive buyer,Private customer,exclusive client,exclusive  patron,Private clientele,Private constituency,private user,私人客人,私人消费者,私人购买者
+私人住宅,residential housing,私人大楼,私人楼宇,私人公寓
+私人楼宇,private building
+私家车,Private Vehicle, Private Car
+私隐声明,私隐政策,private policy,Privacy Policy,privacy policy
+系统,system
+良好表现,good performance,良好的绩效
+见习工程师训练计划,Engineering Graduate Training Scheme
+豆浆机,soy milk maker,soy milk machine
+走势,趋势,运行,动态,run-sequence,trend,tendency,movement
+足够,enough,充足
+足部,足,脚,foot,feet,
+足部温疗保健仪,foot thermotherapy device
+车主,owner of the vehicle,vehicle owner,owner of the car,car owner,车嘅主人,车的拥有人
+车用,vehicle use,auto-,automotive,
+车用石油气,auto-LPG,LPG for vehicles,石油气,LPG,液化石油气,Liquefied petroleum gas,LP gas,auto LPG,车用石油气
+车底机器,equipment under the train car,Undercarriage machine,车底装备
+车门,train door,Car door,列车门
+车门夹着,caught by train doors,夹着
+车站,stations,station,站,stop 
+车票,tickets,车飞,火车票,train tickets,bus ticket
+车速,speed,速度,行车速度,the maximum speed,Driving speed,dirve speed,Driving rate,Driving velocity,driving pace,Driving tempo,行驶速度,行驶车速
+车速监察,speed ​​monitoring,车速显示器,Speed display unit. 车速监察系统
+车厢,车卡,train car,列车车厢
+车道,行车线,车行道,lane,carriageway
+车辆,vehicle,car,wagon,车
+车辆维修工场自愿注册计划,Registered Vehicle Mechanics,Registered Vehicle Maintenance Workshops,Voluntary Registra,tion Scheme for Vehicle Maintenance Workshops,车辆维修,Auto repair,车维修,维修车辆,整车,车辆维修工场,vehicle maintenance workshop,车房,garage,vehicle repair workshop,维修工场,自愿注册计划,Voluntary Registration Scheme,VRSVMW
+车辆维修技工,vehicle mechanics,Registered Vehicle mechanics,注册车辆维修技工,
+车辆维修技术咨询委员会, the Vehicle Maintenance Technical Advisory Committee ,VMTAC,
+车辆维修注册计划,Registration Scheme for Vehicle Maintenance,车辆维修注册项目,RSVM
+车辆维修注册组,Vehicle Maintenance Registration Unit,VMU
+车辆维修业注册计划建议,Proposals for Registration Scheme for Vehicle Maintenance,车辆维修业注册计划项目
+车辆驾驶,driving,开车,Vehicle driving,揸车
+防止机厢不正常移动装置,unintended car movemnet protection device,UCMP device,非预定移动保护装置,UCMP
+防止机厢向上超速装置,ascending car overspeed protection device,ACOP device,ACOP,ascending car speeding protection device,ascending vehicle overspeed protection device,ascending car overspeed protection implement,ascending car overspeed protection equipment,防止机厢向上超速装备,防止机厢向上超速设置,防止机厢向上超速设备
+防火升降机,fire prevention lift,Fire lift,fireptoof lift,fireproof elevator,fire prevention elevator,防火升降电梯,防火垂直电梯,防火𨋢
+防火板,fireproof boards,耐火板,阻燃板
+防火板线,fire resistant cable
+防火证书,fire certificate,fire prevention certificate,fireproof certificate, fireproof credentials, fireproof permit, fireproof  license, fireproof voucher,防火证明书,防火证,防火凭证,防火凭照,防火状
+事宜,matter,tips
+事故,accident,意外,事,不测,变故,闪失,incident,failure,distress,crash,mistake,mishap
+事故调查报告,incident report,Accident investigation report,failure investigation report,distress investigation report,意外调查报告,
+亚太经合组织,APEC,Asia-Pacific Economic Cooperation,亚太经济合作会议,亚太经合会议
+享有,享用
+使用及操作许可证,permit to use and operate,许可证,license to use and operate,excise to use and operate,licence to use and operate,使用及操作允许证,使用及操作许可,使用及操作许可执照,使用及操作许可牌照,使用及操作许可凭照
+使用者资料,user's information 
+使用后,用完,after use
+使用期限,service life expiry date,expiry date,有效期,valid period,period of validity,expiration date,保存期限,到期日,有效期限,截止日,失效日期,validity period,effective period,有效限期,限期,期限,使用期,失效日期
+,时限,有效时间,几耐有效,有效几耐,有效日期,valid date
+
+来自哪里,来自边度,来自边到,来自咩地方,来自什么地方,哪里做,那里做,边度做,来自那里,哪里进口,边度进口,哪里入口,那里进口,那里入口,什么地方入口,什么地方进口,什么地方做
+來歷不详,unknown origin,來歷不明
+例子,范例,事例,example,instance,sample,case in point
+供水予星盘使用的5-6公升即热式热水炉,星仔炉
+供冷系统,Cooling system
+供冷服务,Cooling services
+供冷厂房,District cooling system plant,区域供冷厂房
+供气,supply gas,gas supply
+供气主喉,gas main
+供暖季节性表现系数,hspf,heating seasonal performace factor,加热季性能系数,制热季节能源消耗效率
+供电,electicity supply
+供电商,电力供应商,electrical supplier,electricity supplier
+供电商的接地设施,electricity supplier's earthing facilities,供电厂的接地设施,供电厂的接地装备
+供电商接地电榄,electricity supplier's earthing facilities,供电厂接地电榄
+供电设施,power companies installations,power company's equipment,供电设备,供电器材
+供电电榄(保护)规例,Electricity Supply Lines (Protection) Regulation
+供应商,supplier
+两用扳手,拎梗
+两次,twice,two times
+两脚,two-pin,2-pin,2脚,two leg plug,2-leg plug,2 leg plug,two pin plug,2-pin plug,2 pin plug,二脚,两脚,2脚插头,两脚插头
+两脚扁插,two-pin, 2-pin, 2-pin flat plug,两脚插,两脚插头
+其他工业,Other Industrial,other industry,个别工业,其他工商业
+其他房屋,Other Housing,other housing sector,个别房屋,其他住宅
+其他物品,other items,other goods,其他货物,其他货品,其他嘢,其他野
+其它,其他,other,附加,另外,额外,另类,additional
+典型,Typical,representitive,foretype,classic,quintessential,archetypal,model,prototypical
+到校展覽,On-site Exhibition,On-campus exhibition,现场展覽,在校展覽
+到校讲座,outreach talk,到学校的讲座,学校讲座,外展讲座
+到访,visit,参观,观赏,访问
+到货通知,arrival notice
+到期日,有限日期,expiry date
+制定,执行,强制,enforce
+制度,system,institution,系统,体系
+协助,support,帮助,援助,辅助,帮手,assist
+取消,cancel,stop,唔要,撤消,终止,停止,停用,De-registration,注销
+取货,攞货,提货,拎货,收货,收到货物,攞到货物,收到货,攞到货
+固定电力装置,fixed electrical installation,electrical installation,electrical installations,电力装置
+委聘,Engage,hire,invite,empoly,take on,betroth,recuit,enroll,聘任,聘请,雇请,雇用,招收,雇
+官方,authority,official
+官方语言,official language 
+定期,按时,固定,定时,regular,periodic
+定期保养,regular maintenance,periodic maintenance,routine maintenance,periodical maintenance,general maintenance,ordinary maintenance,例行保养,定期保养工程,恒常保养工程,恒常保养
+定期检查及测试,periodic inspection and testing works,定期检测及测验
+定期检查测试及领取证明书,Periodic Inspection,Testing and Certification ,PITC,Testing and Certification (PITC) Work,Testing and Certification,固定电力装置定期检测, 证明书
+定期检验,periodic examination,定期检,routine examination,例行检查,定期检查,regular safety inspection,regular safety checking,regular inspection,regular checking,定期安全检查,regular safety check,periodical safety inspection,periodical safety check,定期安检,定期检修,regular inspection and maintenance,regular examination,ordinary examination,periodic test,routine inspect,regular inspect
+居民,Residents,市民,citizen,resident,inhabitant,公民,大众,公众,public,open,common,公共,Public ,公开
+居者有其屋计划,Home Ownership Scheme,HOS,Home Ownership program,Home Ownership plan,Home Ownership proposal,Home Ownership plot,居者有其屋方案,居者有其屋计划策划
+店舖,门市,舖头,铺头,分店,shop,outlet,舖,铺,实体店,店内,门店,店,零售点,店铺,store,boutique,商店,商铺,档口,小店
+延长,延期,extend,延迟,改迟,加长
+性格,个性,特征,特点,属性,charateristic,feature,attribute
+性能,perform,功能,functions
+房中房,room in room
+房门,房间门,door of the room,door
+房间,Room,chamber,apartment,suite,房,套房,室,卧室
+所属,属于,belong,respective
+抱负,理想,渴望,希望,心愿,志愿,愿望,意向,志向,objective,goal,aim,desire
+押金,Deposit,按金
+抽气扇,排气扇,Exhaust fan,Ventilation fan,whole house fan
+抽湿量,Dehumidifying Capacity
+拆开,打开
+拆毁,demolition,拆除,拆下
+拎返,取返,攞返,取回,收返,补领,补回
+拖板,接线板,插排,排插,延长线,拖苏,power strip,extension unit,extension block,power board,power bar,plug board,pivot plug,trailing gang,trailing socket,plug bar,trailer lead,multi-socket,multi-box,socket board,super plug,multiple socket,multiple outlet,polysocket
+招标,Tendering
+放射性物质,radioactive materials,放射物质
+旺角,mongkok
+昂坪栈道,Ngong Ping Trail,Ngong Ping Boardwalk,昂坪山径
+昂坪榄车,Aerial Ropeways,Ngong Ping Cable Car,Ngong Ping Aerial Ropeways,昂坪空中索道,Ngong Ping 360,360,aerial ropeway
+明星,名人,有名,出名嘅人,名流,着名人士,celebrity,star,artist,famous
+明渠一号淤泥处理站,Kai Tak Nullah No. 1 silt treatment station,Kai Tak Nullah No. 1 silt processing station,Kai Tak Nullah No. 1 ooze treatment station,明渠一号淤泥处置站,明渠一号淤泥管理站
+易燃性,可燃性,可燃度,combustibility,flammability
+易燃物品,flammable,flame,易燃,易燃物,易燃品,flammable materials,flammable stuff
+易燃气探测器,gas detector
+易燃雪种,flammable refrigerant
+易燃雪种冷气机,flammable refrigerant air conditioner,易燃雪种空调,易燃雪种冷气,flammable refrigerant aircon,flammable refrigerant air con,易燃雪种空调机,
+朋友,友人,老友,知己,friend,buddy,
+服务,public service,service,公共服务
+服务承诺,performance pledge 
+服务条款,terms and conditions,T&C,服务细则
+东主,东家,业主,所有者,房东,店主,shop owner,shop keeper,store keeper,owner of the store,boss老板,老细,proprietor,owner 
+东涌,tung chung
+东涌湾,Tung Chung Bay
+东铁綫,East Rail Line,东铁,ERL
+油,oil,石油,petroleum ,煤油
+油漆,漆油,漆,Paint,oil paint,varnish
+油压升降机,hydraulic lift,油压式升降机,Hydraulic elevator,油压式升降电梯,油压式垂直电梯,油压式𨋢,油压𨋢
+泄放水,Fleed-off water,Drain water,Vent water,excrete water,排水,排泄水,泄水,外流水
+泄漏石油气,LPG leak,LPG leakage,liquidfied petroleum gas leak,liquified petroleum gas leakage,漏石油气,石油气泄漏,泄漏石油气
+法文,法语,法国话,法国语言,french
+法例,Statutory,Law,legislation,rule,codex,theorem,enactment,ordinance,regualtion,act,法定,法律,法则,法规,规律,规则,规条,规例,条例,法条,statute
+法定,Statutory 
+法律责任,法定负责,Legal liability
+法团,法人组织,incorporated
+法兰螺丝孔中至中位,山打位
+注入容量,filing capacity
+注气,filing
+版本,version,edition
+版权,着作权,copyright
+物流公司,运输公司
+物料,材料,用料,materials,items,
+物料起重机,material hoist,Material crane,material derrick,物资起重机,物料起重机器
+物理水处理,Physical water treatment methods,Physical water therapy methods,Physical water cure methods,物理水处置,物理水管理,物理水治理,物理水管制,物理水办理
+物管,物业管理,property management
+物价,price index
+物价指数,Composite Consumer Price Index,CCPI,CPI,consumer price index,綜合消费物价指数,消费物价指数
+的士,taxi,cab,出租车,出租汽车,计程车
+直升机,直升飞机,helicopter,chopper,
+直流电池,直流电芯,direct current battery,DC battery
+直接数位控制,Direct Digital Control,DDC,直接数字控制
+社区会堂,Community hall,community centre,society hall,society centre,大会堂,社区大会堂,社会大会堂
+社会,society,community
+社会服务中心,Social service centre,Community service centre,society service centre,Social servicing centre,Community servicing centre,society servicing centre,社区服务中心 
+空气,air
+空气污染,air pollution
+空气清新机,air purifier,Air cleaner,Air purifying machine,空气净化机,空气净化器,空气清新器,空气清净机,空气过滤器,空气滤清器,air filter,空气清涤器,空气通风机
+空气短路器,air ventilation machine,通风机,空气排风机
+空隙,gap,间距,裂缝
+空调系统,air-conditioning system,air conditioning systems,air conditioning insitution,air conditioning equipment,冷气系统,冷气装置,冷气体制,空调体系,ac system,ac equipment
+空调系统部件,components in air-conditioning system
+空调能源效益,空调能效,Energy Efficiency of Air Conditioning, EE-AC
+花旗银行,citibank
+花洒头,莲蓬头,花洒,sprinkler,sprinkler head
+表尾,表尾线
+表前制,表前掣,前掣,Main Incoming Circuit Breaker,MICB,Customer LV Main Switch
+表格,Form,table,tabulation,表,chart,list
+表格1,Form 1,table 1, LE Form 1,LE1,表格 1
+表格109A,109A表格,form 109A,form109A,form 109a,form109a
+表格11,form 11,table 11, LE Form 11,表格 11,表格LE11,LE表格11
+表格17,Form 17,table17, LE Form 17,表格 17
+表格19,Form 19,table 19, LE Form 12,表格 19
+表格2, Form 2,table 2,LE Form 2,表格 2
+表格21,Form 21,table 21,LE Form 21
+表格3,Form 3,table3,LE Form 3,表格 3
+表格4,Form 4,table4,LE Form 4,表格 4
+表格5, Form 5,table 5,LE Form 5,表格 5
+表格6, Form 6,table 6,LE Form 6,表格 6
+表格7,Form LE7,table LE7,LE Form 7,表格 7
+表格A, Form A,table A,LE Form A,表格 A
+表格EE-SU,Form EE-SU,EE-SU,表格 EE-SU
+表格LE27,Form LE27,table LE27,LE Form 27,表格 27,LE27
+表格WR1,occupation permit,完工证明书,Work Completion Certificate,WR1,表格 WR1,Form WR1,完工纸
+表格WR1A,WR1A,Form WR1A,WR1(A),wr1a,完工(部分装置)证明书,Work Completion (Part of the Installation) Certificate,work completion ( part of installation) certificate
+表格WR2,WR2,Form WR2A,Periodic Test Certificate,wr2,定期测试证明书,periodic inspection and test,大厦公用固定电力装置的定期检查及测试
+表格WR2A,WR2A,Periodic Test Certificate (Part of the Installation),periodic test certificate (part of the installation),WR2(A),wr2a,定期测试(部分装置)证明书
+表格一,form 1,form one,表格1 
+表格八,form 8,form eight,表格 8
+表格八 A,form 8A,form eight A,form 8a,form eight a,表格8A,表格8a
+表现,performance,rating,ratings
+表现监察制度,监察制度,performance monitoring system
+金色,gold
+金色卡,金卡,gold card,golden card
+金额,款项,数目,钱,amount
+金属,metal
+长形款式工商业镬具的磁吸掣,手榴弹
+长沙湾,cheung sha wan
+长者,老人,老年人,老人家,年长者,年长人士,elderly,old age,old people,senior citizen,old adult,the elders,seniors
+长者自住业主,Elderly Owner Occupiers,长者业主,Elderly proprietor Occupiers,Elderly business Owner Occupiers,Elderly business entrepreneur,长者自住所有者
+长度,长短,篇幅,length,extent,linear measure
+长相,相貌,外貌,外表,样子,面貌,look,face,apperance,
+门,door,gate
+阻隔电源,isolate the power,电源阻隔,阻断电源
+附表,schedule
+附近,vicinity,close by,close to,near,next to,Adjacent,邻近,相近
+附近居民,nearby residents,附近住户,邻近居民,常用住户,常用居民
+附属研究所,subsidiary research bodies,研究所
+青少年,青年,青年人,年轻人,后生仔,后生,Adolescence,teen,teenager
+青衣,tsing yi
+非官方,non-official
+非订明,non-prescribed
+非订明产品, non-prescribed products,非列明产品
+非电力,冇电力,non-electric
+非制造业,Non-manufacturing,Non-manufacturing sector,non-productive,不是制造业
+促使,improvement,Prompt,cause,驱使
+保存,keep record,保留,save
+保安,security,ensure safety,security guard,secure,保安员,保安人员
+保安封条,security label
+保健仪,保健器,hygiene appliance
+保密,保守秘密,避免外泄,防止外泄,confidential
+保养,维护,warranty,maintenance,维修,修理
+保养合约,Maintenance contract,Maintenance compact,Maintenance agreement,Maintenance covenant,Maintenance deed,Maintenance charter,保养合同,保养契约
+保养承办商,lift maintenance contractor,升降机保养公司,升降机保养的承办商,升降机保养商,电梯公司,维修电梯公司
+保养服务,lift maintenance and examinations,maintenance works,maintenance service,maintenance engine,保养工作
+保养期,maintenance period,维修期
+保养维修合约标书,tenders,Maintenance and repair contract tender
+保养价格,the maintenance price,保养费,maintenance value,maintenance cost,maintenance charge,maintenance spending,maintenance fee,保养价钱,保养花费,保养成本
+保养质素,Maintenance quality,Maintenance character,Maintenance fabric,Maintenance diathesis,保养质量,保养品质,保养素质
+保险,insurance,insure,secure,
+保险刀,door re-opening device
+保鲜格容积,Fresh Food Volume
+保护,protect,防护,维护
+信用卡,creditcard,信用咭,credit card
+信用咭户口,信用卡account,信用咭account,信用卡户口
+信号,signal
+信号系统,signalling system,Signalling,港铁信号系统
+信兴工程,shinhing,信兴
+冒烟,smoke,烟,出烟
+品质政策,quality system 
+型号,models,类型,types,样式,model,type
+型号测试凭证,type test certificates,type test certificate,type test credentials,type test voucher,type test permit,type test license,型号测试证明,型号测试证书,型号测试证明书,型号测试凭照,型号测试状
+客人,client,patron,guest,visitor,shopper,buyer,customer,客,宾客,旅客,顾客
+客户,customer,用户,Consumer,coumsumer,purchaser,buyer,client,patron,clientele,constituency,user,客户,客人,消费者,购买者,occupant,使用者,用者,用家
+客户服务,客服,cs,customer service,人工客服
+客户点评,用户点评,客户评论,用户评论,客户品评,用户品评
+封条,seal,条状貼纸,物品身分证
+封着,blocked,封上,封着,封实,block,封左
+屋企,domestic,household,family,home,家居,家庭,住宅,屋企,Residential sector,住宅单位,Residential,housing,residential area,residential building,住宅建筑
+屋宇装备装置,Building services installation,House equipment installation,Mansion equiment installation,Building equipment erect,Building equipment installation,Edifice equipment installatio,屋宇装备安装,屋宇设备安装,屋宇配备装置,屋宇配置装置,屋宇安装设置,楼宇设备装置,住宅大厦装备装置,住宅大厦设备装置,住宅大厦配置装置
+屋苑,housing estate,小区,街坊,
+屏幕对角尺寸,Diagonal Screen Size
+建筑工地升降机,builder's lift,工人笼,Construction site elevator,Construction site lift,builder's elevator,建筑工地升降电梯,建筑工地升降平台,建筑工地垂直升降机,建筑工地𨋢
+建筑工地升降机及塔式工作平台,BLTWP
+建筑工程,construction site,工地,地盘,施工地,building site,site ,建筑项目,建筑计划
+建筑法,Modular Integrated Construction,MiC
+建筑物,Buildings,structure,construction,edifice,pile,architecture,hut,domicile,tenement,楼宇,房屋,大厦,楼,屋宇,大楼,buildings,住宅,物业,domestic,household,family,home,家居,家庭,屋企,Residential sector,住宅单位,Residential,housing,residential area,residential building,住宅建筑,house,building
+建筑物能源效益守则,Building energy code,bec,屋宇装备装置能源效益实务守则
+建筑物能源审核实务守则,Energy Audit Code,EAC,建筑物能源审核守则
+建筑信息模拟,BIM, Building Information Modelling
+建筑废物,Construction waste,Construction refuse,Construction trash,Construction garbage,Construction junk,Construction squander,建筑废料,建筑耗物,建筑垃圾,
+建筑环保评估协会有限公司,BEAM Society Ltd,环保协会有限公司
+建筑环境评估证书,BEAS certificates,BEAS credentials,BEAS proof,BEAS voucher,BEAS evidence,BEAS permit,BEAS license,建筑环境评估凭证,建筑环境评估证明书,建筑环境评估证,建筑环境评估状
+建议,提议,提倡,suggestion,suggestions,opinion,advise,guide,提供意见,advice,提醒,倡导,创议,倡议
+很久,很长时间,很耐,好耐,好久,long time
+后备,Backup
+恒生,Hang seng bank,恒生银行,恒生,HangSeng
+持牌人员,registered worker,持牌人 ,持牌负责人
+持牌电工,registered as an electrician,registered electrician, electrician,电工,发牌电工
+持续专业进修,Continuing Professional Development ,CPD,持续进修
+指引,guidelines,指示,指令
+指定,designated,特定,限定
+指定地区, designated area,特定地区,指定区域
+指明事故,specified lift incident,reportable incident,Specified incident,Specified accident,Specified lift accident,reportable accident,指明事件,指明意外
+指南,directory,guide,guidebook,manual,guideline,説明
+指数,索引,指标,index
+指导计划,orientation,辅导计划
+按年变动率,year to year rate of change,yearly change,yearly changes,按年变动化率
+按钮灯,the button lights,the button lamp,the button machine,the button 
+挖掘工程,excavation works,开挖工程
+挖掘机,挖土机,机头,泥头车,怪手,钩机,反铲,挖机,excavator,digger,机械挖掘机
+政府,Government,内阁,辖,government,HK governmet,HKSAR government,港府
+政府建筑物,Government building,government structure,government erection,government construction,government architecture,政府大厦,政府大楼,政府楼宇,市政府大楼,市政府大厦,市政府建筑物,市政府楼宇
+政府部门,Government department,Government division,Government branch,Government section,Government unit,department
+政府机构,政府机关,government agency,state agency,government organization,goverment department,gov't sector
+故意,deliberately
+故障记录,fault record
+施工者,施工员,施工人员,builders,construction workers,working party
+星展银行,星展,DBS
+春夏,spring and summer
+是,系,系,喺
+是否,有没有,有否,有冇,有无,系唔系,系梦,是不是,系梦,系唔系,会唔会,会不会,会否,有吗,喺唔喺,喺梦,系梦要
+枱灯,desk lamp,台灯
+架空电榄,overhead line,Overhead cable,空中电榄,架空绝缘电榄,OHL
+架空榄车,Aerial Ropeways,cable car,Aerial tramway,榄车,aerial ropeway,ropeway,ropeways
+架空榄车拥有人,Owner of an aerial ropeway,proprietor of an aerial ropeway,the haver of an aerial ropeway,owner of cable car,proprietor,of cable car,架空榄车所有者,榄车拥有人,
+查看,睇返,睇番,睇翻,查阅,view,翻阅,翻查,番阅,番查,find,check
+洗衣店,aundromat,laundry,洗衣舖,洗衫舖
+洗衣干衣机,washer-dryer,Washing and drying machine
+洗衣机,washing machine,laundry machine,clothes washer,washer
+泄漏,渗漏,漏出,leakage,leaking,oozing,seepage,outflow
+活动,activity
+活接头,腰引,夭仁,女人,急轮,Union
+派饭,on-site meal portioning
+为何,why,点解,为什么,为甚么,何故,什么原因,什么造成,原因是什么,理由是什么,什么理由
+玻璃,琉璃,glass
+珍珠,tapioca ball,pearls
+珍珠奶茶,珍奶,粉圆奶茶,辔辔茶,bubble tea,pearl milk tea,tapioca ball tea,boba milk tea
+珍珠机,tapiaca ball machine,tapioca pearl maker
+相同,同样,一样,划一,same,一致,indifferent
+研讨会,Promotional pamphlets
+突然加剧,abrupt rise,Sudden increase,突然强化,忽然深化,激化
+突发,Emergency
+纪律,规律,风纪,Discipline,control,rule,regulation
+纪律部队,security forces
+纪录,record,history,document,note,记载,着录,记事,record sheet, record form,纪录表
+红色,红,red
+红灯讯号,red signal,铁路讯号,讯号系统,Signalling
+缸车,road tanker
+美国运通,AMEX,运通,AE
+美国运通卡,American Express card,AE card,运通卡
+美观,artistic
+英文,英语,英国话,英国语言,english,eng
+英标,British standard,BS
+英标转插头,BS conversion plug,British standard plug,英式转插头
+订明产品, prescribed products ,指定产品,订明商品,指定商品
+订造,订做,tailor-made,订制,定做,定造,custom made
+订阅,subscribe,order
+计算,计法,calculate,count,work out 
+负责人,RP,responsible person,person in charge,责任人,负责者,老板,老细,老世,主管
+负载量,load,burden,the maximum of load,the maximum of burden,loading,capacity
+负载检验,examination with load,test with load,inspection with load,examination with burden,test with burden,inspection with burden,负载测试， 负载检测，负载检查，负载查验
+负担,包袱,负荷,负载,累赘,burden,load
+重要人物,VIP,尊贵客户,贵宾
+重发,resend
+重叠,Overlaps 
+重新申请,re-apply,再次申请
+重新校验,Retro-commissioning,Recheck,Recalibrate,Redeploy,rearrange,Re-edit,重新调配,重新安排,重新校改,重新更正,重新校正
+重置,再setup,重新设立,reset,重启
+重复,再次,repeat,双重
+重铁路线,heavy rail lines,重铁线,重型铁路系统,重铁
+限额,限制金额,credit limit
+面板,屏幕面板,显示器,panel
+面积,范围,area
+音响,喇叭,扬声器,audio electronics,loudspeaker,speaker
+页面,page
+风力系统,wind turbine system
+风力发电机,wind turbine,风能项目,wind power project,风力发电,turbine
+风力资源,wind resources,wind power,wind energy
+风力资源图,Wind Resource Map
+风扇,exhaust fan
+风能,wind energy 
+风能项目,wind power project,风能计划
+风喉,air duct
+风压检测装置,风鼓
+飞机,空中巴士,航机,plane,aircraft,airplane,aeroplane,flight
+食物制备场,food preparation establishment
+食品,食物,food,eatables,食品,粮食,嘢食,食粮,foodstuff
+食肆,restaurant,eatery,餐厅,菜馆,餐馆,酒家,饭店,饭馆,快餐店
+首次,first,primary,第一次
+首阶段声明,Stage one declaration,First stage statement,Primary stage staement,beginning stage statement,initial stage statement,rudimentary stage declaration,preparatory stage declaration,abecedatian stage statement,第一阶段声明,初阶段声明,第一阶段说明,首阶段申明,初阶段注明,EE1
+香港,hongkong,hong kong,全港,the entire Hong Kong,territory-wide,all in Hong Kong,成个香港,全香港,whole hong kong,hk,本地,本港,hksar
+承办商表现评级,PAS,Performance Assessment Scheme,CPR, Contractor Performance Rating
+香港工程师学会工程毕业生培训计划,THE HKIE FORMAL TRAINING SCHEME A
+香港仔,aberdeen
+香港建筑物能源效益注册计画,Hong Kong Energy Efficiency Registration Scheme for Buildings,Hong Kong Energy Efficiency Registration Plan for Buildings,Hong Kong Energy Efficiency Registration Program for Buildings,Hong Kong Energy Efficiency Registration Plot for Buildings,Hong Kong Energy Efficiency Registration Proposal for Buildings,Hong Kong Energy Efficiency Registration Scheme for Architectures,Hong Kong Energy Efficiency Registration Scheme for Structure
+香港首条地下铁路綫,first underground railway in Hong Kong,Hong Kong's first underground railway line,香港第一条地下铁路綫
+香港岛,港岛,hong kong island,hk island
+香港气候行动蓝图,Hong Kong Climate Action Plan, Hong Kong's Climate Action Plan,Climate Action Plan, Climate Action Blueprint
+香港能源最终用途数据,Energy End-use Data,能源最终用途数据,Hong Kong Energy End-use Data
+香港邮政,Hong Kong Post 
+香港绿色建筑议会,BEAM Plus Assessment System,BEAM Plus Evaluation System,BEAM Plus Rating System,BEAM Plus Valuation System,BEAM Plus estimate System
+乘客,passenger,顾客,passengers,customer,client,旅客,搭客
+乘客人数,number of passengers,no. of passengers,number of guest ,number of customer,客人人数,人数,number,数
+乘搭港铁,ride on MTR,搭港铁,坐港铁
+修改,revised,修正,纠正,correct,改正
+俾唔到钱,比唔到钱,交唔到钱,比不到钱,交不到钱,俾不到钱
+俾钱,付钱,缴费,付款,payment,pay
+个人,单独,单人,individual,personal
+个人资料,个人资讯,个人Info,个人信息,个人数据,我嘅资料,我嘅信息,我嘅资讯,我嘅数据,我d资料,我d信息,我d数据,我d资讯,私人资料,私人数据,我的资料,我啲资料,我啲信息,我啲数据,我啲资讯,personal data,personal info
+个别,独立,某个,individual
+个案,Case,案件
+借出,borrowed,借
+准用证,use permit,准用证,准用证,use license,允许证,准许证,准用证明,准用证书
+原先,起初,原来
+原因,理由,理,缘故,因,缘由,reason,cause,
+原始资料,raw data,Original data,原始数据,原始数据集,raw dataset 
+原厂保养的承办商,third party maintenance company,Original maintenance contractor,Original maintenance company,原厂承办商
+员工的技能,员工技能,员工知识,员工技巧,员工的知识,员工的技巧,员工嘅技能,员工嘅知识,员工嘅技巧,员工嘅水平,员工嘅质素,员工的水平,员工的质素
+哪些,What kind 
+哪里,喺边度,边树,系边,边度,系边到,在哪,where,系边,地址,联络地址,address,location,位置,地点,位,何处,在哪儿,系边树,place,地方,space 地点,area,边到,什么地方,what place,哪裏,乜地方,咩地方,边个地方,神马地方,那里,喺边,access,如何前往,where can I find 
+家人,屋企人,亲人,亲属,家属,family,kinship,
+家用电气产品,household electrical appliance
+家用电话,电话,phone,telephone,tel
+家居升降机,home lift,家用升降机,home elevator,家用升降电梯,家用垂直电梯
+家居升降机升降机及自动梯条例,home lift ,Cap.618,home lift ordinance,home lift regulation,home lift rule,home lift atc,home lift law,家居升降机升降机及自动梯规例,家居升降机升降机及自动梯法则,家居升降机升降机及自动梯守则,Cap 618
+家居安全,home safety,household safety,domestic safety,safely
+家居气体用具,domestic gas installation
+家品,家庭用品,家居用品,homeware,houseware
+家庭,家居,住宅,domestic,household,family,home,家庭,屋企,Residential sector,住宅单位,Residential,housing,residential area,residential building,住宅建筑,家中
+家庭人数,household size,Family size,家庭人数上限,家庭总人数,家庭数量
+家庭电路,The home circuit,household circuit
+家庭电路维修服务, home electricity circuit repair service,家庭电路维修,家居电路维修服务
+容水量,nominal water capacity,容量,capacity,储存量,总容水量,water holding capacity,持水量,装水量,盛水量
+容量,capacity,装到几多
+展示,demonstrations,展现,Promote,显示,display,show,陈列
+差异,唔同,差别,相差,区别,有出入,分歧,differences,divergence,diversity,discrepancy,not the same,not a like
+座位,位,seat,chair,position
+座台灯,desk lamp,台灯,台灯
+径流式水电站,run-of-the-river system,径流式水电厂,run-of-the-river plant,run-of-the-river station,径流式水电场
+效能,Effectiveness,效用
+旅行适配接头,travel adaptors,旅行万能苏,旅行万能插
+旅客捷运转车站,APM Interchange Station,香港国际机场旅客捷运,Hong Kong APM Interchange Station,HKIA-APM Interchange Station
+时期,时段,_x0008_period
+时间,time,duration,moment,period,while,时候,瞬间,片刻,刹那,果阵,时刻,期间,processing time
+晋升制度,晋升机会,员工晋升,升职
+书面报告,report,报告,
+校正,calibrate,calibration,calibrated,调教,校准,adjust
+核电,nuclear energy,核能
+核电及电力供应安全分部,Nuclear & Utility Safety Sub-division 
+核电安全,nuclear  safety
+核电站,nuclear Power Plant
+核对表,检查表,checklist
+梳化,sofa,沙发
+气冷,air cooled,风冷
+气冷空调系统,air-cooled air conditioning system,air-cooled air conditioning equipment,air-cooled air conditioning insitution,传统气冷型冷却塔,传统气冷型冷却器,传统气冷型冷却体系,传统气冷型冷却体制,传统气冷型冷却装置,气冷型冷却塔,风冷型冷却塔
+气味,odour,odor,smell,味
+气缸,gas tank,gas vat
+气库,compounds,gas stores,terminal
+气瓶,cylinder,tank,气樽,气桶,气罐
+气鼓,door closer. 闭门器,门头制,门鼓,门弓器,关门器,闩门器
+气枪,空气软枪,软气枪,air gun,airgun,airsoft gun
+气体,gas
+气体工程承办商,气体承办商,注册气体工程承办商,registered gas contractor,RGC,气体系统承办商,注册气体承办商
+气体工程记录,gas installation work record
+气体用户喉,gas installation pipe
+气体用具,gas products,gas produce,gas utensils,gas appliance,gas tackle,gas tool,gas instrument,气体器具,气体工具,气体器物,炉具,gas appliances,气体炉具
+气体安全,gas safety
+气体安全条例,gas safety ordinance,Cap 51,第51章,chapter 51,chapter51,cap51,town gas ordinance,gso
+气体行业,gas supply
+气体系统承办商,Gas System Contractor,GSC
+气体车辆,gas vehicle,gas wagon,气体运输车
+气体车辆许可证,gas vehicle permit
+气体事务处,Gas Authority
+气体供应公司注册计划,registration scheme of gas supply companies
+气体供应装置,gas supply installation,gas supply facilities
+气体接驳软喉,接驳软喉,软喉,flexible gas tubing,气体软喉,flexible tubing,flexible pipe,recognized flexible conduit,approved flexible conduit,承认的软喉,公认的软喉,认可的软喉,认可嘅软喉,猪尾喉,gas tubing,气体胶喉,gas rubber tubing
+气体喉管,gas pipe,gas pipes
+气体煮食炉,gas cooker,gas stove,gas burner,gas 煮食炉,gas炉,gas cookong stove,煤气灶,煤气炉,燃气炉,燃气灶,gas灶,气体煮食炉具,瓦斯炉
+气体意外,gas incident,气体事故
+气体装置,煤气装置,gas installation,gas installations,石油气装置
+气体装置工程,gas installation works,gas works,gas installation work,gas work,气体工程
+气体标准事务处,Gas Standards Office,GSO
+气体热水炉,gas heater,燃气热水器,气体热水器,gas water heater
+浴室,冲凉房,洗刷室,沐浴室,沐浴间,bathroom,shower room
+海上交通,sea transport
+海上风电场,offshore wind farm
+海天客运码头,SkyPier,HKIA-SkyPier,香港国际机场-海天客运码头
+海水泵房,Seawater Pump Room,Seawater Pump Chamber,Seawater Pump Apartment,Seawater Pump Room Suite 
+海水管,Seawater pipes
+海外网页,oversea websites,外国网页
+海外制造商,oversea manufacturer,外国制造商,abroad manufacturer,foreigne manufacturer,oversea manufacturing company,abroad manufacturing company,foregine manufacturing company,国外制造商,外地制造商
+海洋生物,marine life,海洋物种,海洋动物
+消防升降机,fireman's lift,消防员升降机,Fire lift,fireman's elevator,消防用升降机,消防升降电梯， 消防用垂直电梯,消防𨋢
+消防装置,fire safety installations,消防安全装置,消防装置
+消防楼层,fireman floor,fire floor,fireman ground,fire.ground 
+涉及,包含,涵盖,概括,involve
+特低压,ELV,extra low voltage,超低压,极低压
+特低压电榄,extra low voltage cable,ELV cable,特低压信号装置电榄
+特别保养,special maintenance,particular maintenance,unusual maintenance,特殊保养
+特性,characteristics,trait,attribute,feature,property,特征,特点,性质,特色
+特点,特别,special
+病毒,virus
+真人,real person,live
+真空气动梭,Pneumatic Vacuum Elevator,Pneumatic Vacuum lift,气动真空梭,真空电梯,气动电梯,真空气动电梯,气动真空电梯,pve,气压电梯,气压升降机,真空气动𨋢,气压𨋢
+真伪性,真假度,系真定假,真实性,authenticity,realness
+秘密,secret
+租者置其屋计划,Tenant Purchases Scheme,TPS,Tenant Purchases program,Tenant Purchases plan,Tenant Purchases proposal
+站立式楼梯升降台,Standing stair lift,Standing stair elevator
+笑话,搞笑,joke,funny story
+粉丝专页,fanpage,专页
+索取,领取,取得,获得,collect,take,receive,get,obtain,拎,攞
+缺货,没有货,无货,没货,冇货,未有货,售罄,冇存货,无存货,没有存货,out of stock,sold out
+耗水量,Water Consumption 
+能效标准,energy efficiency standard
+能耗类别,energy consumption group,能源组别,能源消耗类别,能源消耗组别,能耗组,energy consumption set 
+能源,能量,energy,power
+能源工作组,Energy Working Group,EWG,亚太经济合作组织能源工作组,亚太经济合作组织能源工作组会议
+能源合作,energy cooperation,能源合作计划
+能源安全,Energy Security,能源安全规则
+能源效益B,EEB,Energy Efficiency Division B,能源效益B组,Energy Efficiency Department B,Energy Efficiency Branch B,Energy Efficiency Section B,Energy Efficiency Team B
+能源效益事务处,Energy Efficiency Office,EEO
+能源效益指数,Energy Efficiency Index
+能源效益证书,HKEERSB cerificate,HKEERSB credentials,HKEERSB proof,HKEERSB voucher,HKEERSB evidence,HKEERSB permit,HKEERSB license,能源效益证明书,能源效益证,能源效益状,能源效益凭证
+能源效率,Energy Factor
+能源消粍,energy consuming,Energy consumption,能源耗费,能源耗损
+能源消耗指标,Energy Utilisation Index,能耗指标,EUI,能源利用指数,香港建筑物能源使用指数
+能源强度,energy intensity,能量强度,energy power,能源动力 
+能源资料,energy data,energy information,能源资讯
+能源管理机会, energy management opportunities,能源管理
+能源审核报告,Energy Audit Form,Power Source Audit Form,Energy review report,Energy check report,Energy audit report,能源审查报告,能源检阅报告,能源覆核报告,能源检查报告,能源检核报告
+能源标签,energy label,能源效益标签,energy efficiency label,energy efficiency labelling,energy labelling,energy labels, energy efficiency labels
+能源调查,energy audit,energy survey,energy research,能源研究,能源审核,Energy Audit,Energy review,Energy Deliberate,Energy censor,energy investigate,energy examine,能源审查,能源检查,能源检验,能源查验,能源检阅,能源考察,能源调研
+能源总量,total energy consumption,Total energy,能源消耗总量,能源消费总量
+臭氧破坏潜能值,Ozone depletion potential,ODP,臭氧破坏潜能值,Ozone Depletion Potential
+臭氧层,ozone layer,ozone shield
+荃湾,tsuen wan
+荃湾綫,Tsuen Wan Line
+讯号故障,signalling failure,讯号失效,讯号系统故障,Signal system failure
+讯号线,控制线,signal cable
+记录,record,document,note,记载,收录,记下,记底,记,记低
+记录表,record,record form
+财政,金融,finance,financial
+财政负担,financial implication,additional cost,另外俾钱
+财产,资产,property,propretie
+起火,fire,Catch fire,outbreak of fire,fire disaster,火灾,大火,火警,Fire alarm,on fire,起火
+起重系统,Lifting system,hoisting system,escalate system,uprise system
+迷你风扇,mini fan
+追踪太阳,sun tracking,Track the sun,跟踪太阳,寻找太阳踪迹
+退伍军人病,Legionnaires' disease,退伍军人
+退伍军人杆菌,Legionella,Vteran bacteria,退伍军人菌,退伍军人细菌
+退货,退回,returns,return,退番啲货,退番货,退返啲货,退返货
+退款,退钱,refund,退番啲钱,退番钱,退返啲钱,退返钱,回水
+送货,delivery,交货
+送货日,delivery date,收货日,delivery day,运货日,运送日,交货日,收货日期,交货日期,运送日期,运货日期,送货日期
+送货期,几耐送货,送货要多久,送货要几耐,多久才送货,收货期,几时送货,交货时间,交货期
+送货热线,送货查询,查询送货
+送漏,漏送,冇送,没有送,没送,无送
+逃生,escape,逃走,躲避,逃逸
+逃生门,emergency exit door,emergency exit,urgency exit,urgency exit door,紧急出口,紧急门
+配件,accessories,fittings,
+闪光,flash,闪烁,闪
+闪烁现象,flicker,闪烁
+马鞍山,ma on shan
+马湾,ma wan
+高度,垂直距离,height,vertical distance,vertical extent,
+高度限制,maximum height
+高风险场所,Higher priority premises,High-risk locations,high- risk premises,High-risk places,High-risk  arena,High-risk position,高风险场地,高风险位置,高风险地方,高风险区域
+高效率电动机,high efficiency chillers,High efficiency motor,高效冷水机,高效电动机,high efficiency chiller
+高压,高压电,high voltage
+高压电力装置课程,high voltage electrical installation
+高铁香港段,the High Speed Rail Hong Kong section,广深港高速铁路香港段,Guangzhou-Shenzhen-Hong Kong High Speed Rail,High Speed Rail
+高铁路线,highspeed rail lines,高铁线,高铁路线图,高铁,High Speed Rail,train,火车,高速铁路
+干封式,dry-sealed
+干燥剂,desiccant,drier
+干燥剂除湿器,desiccant dehumidifier
+偏差,deviation,误差
+停工,suspended,停止,暂停
+停用升降机,lift suspension
+停车位罝,berthing position,靠泊位置,停泊位置
+停车场,parking lot,car park,parking area 
+停泊,park,泊,停系
+停电,loses power supply,power failure,电力停止,停止电力供应,断电,失去电力,无电
+停机制,emergency stop ,Stop machine,urgency stop machine,emergency stop button,停止制,停止按钮
+动力,动机,动能,power,force,motion,propulsion,motive
+动作,行动,Action ,作用,功用,功能,functions,function,行为,action,movement,effort
+区域,District,地区,地域,区域,地带,region,area,district,province,territory,zone
+区域供冷系统,District Cooling System,Region Cooling System,Zone Cooling System,Division Cooling System,District Cooling Equiment,Region Cooling Equiment,区域供冷体制,地域供冷系统,区供冷系统,District Cooling,区域供冷
+区域供冷服务条例,District Cooling Services Ordinance,District Cooling Services Law,Region Cooling Service Regulation,Zone Cooling Service Rule,Division Cooling Service Entactment,District Cooling Service Act,Region Cooling Service Codex,区域供冷服务规例,地域供冷服务规条,区供冷服务法则,Cap 624,Cap. 624, 624
+区域供冷站,additional District cooling system plant,区域供冷,district cooling,additional District cooling system station
+区域供冷厂房,additional District cooling system plant,区域供冷厂,additional District cooling system station
+参加者,Particpant,contributor,party,menber,partaker,entrant,competitor,contestents,candidate,contender,参与者,竞争者,
+参考,reference
+参考价格,reference price,proposed price,consiltation price,reference fee,proposed cost,参考价钱,参考费用
+参考编号,reference numbers,references,参考号码
+参与,Join,参加,加入,participate
+参数,parameters
+售卖,卖,卖出,sell,出售
+商用家俬,office furniture,办公室家俬,写字楼家俬
+商住大厦,Commercial and Residential Building, business and residence building,ommercial/residential complex,商住綜合楼,商住大楼
+商场,the mall,market,plaza,bazaar,emporium,shopping arcade,广场,购物中心,shopping center,shopping mall
+商场扶手电梯,handrails in shopping malls
+商业建筑物,Commercial buildings,trade buildings,commercial architecture,mercantile buildings,商用楼宇,商用建筑物,商业楼宇,商业大厦,commercial premises,商业大楼,Commercial building,商业建筑,贸易大厦,贸易楼宇,贸易建筑物,商务建筑物,商务楼宇,商务大厦
+商业气体用具,commercial gas installation
+商业处所,commercial premises
+启德,Kai Tak,启德发展区,kai tak development,kai tak development zone,kai tak development district,kai tak development division
+启德供冷系统,Kai Tak Cooling System,Kai Tak District Cooling System,Kai Tak Cool sown System,Kai Tak Cool down equipment,Kai Tak Cooling institution,启德区域供冷系统,启德供冷制度,启德区域供冷器,启德区域供冷体制
+国外,外国,他国,其他国家,外地,foreign,oversea,abroad,other countries,海外,第二个国家,香港以外,除左香港
+国家,国,country,nation,state
+国际,international,global
+国际石油气价格,LPG international price,international price of LPG,石油气国际价格
+国际电工技术委员会,IEC, International Electrotechnical Commission
+国际标准,international standard
+国际机构/组织,international institutions,国际机构,国际组织
+培训,training,训练,trainings,培训
+培训学院,培训学校,训练学校
+基本要求,Basic design requirements,fundamental requirements,cardinal requirements,pimary requirements,original claim,junior claim,basic demand,基本需求,基本请求,最初要求,最低要求
+基准表现,benchmarking performance,Benchmark result,基准成绩
+坚尼地城,kennedy town,西环
+堆填沼气,landfill gas,堆填区沼气,沼气,垃圾填埋气
+堆填区,landfill,堆填,landfill site,垃圾填埋场,垃圾场,landfill plants,landfill station 
+寄去,邮寄,寄到,运到,运去,mailing,post,送到,送达
+密封式,room sealed,对衡式,balanced flue
+密封法兰,盲饼
+密码,password,passcode,蜜码,pw,code
+将军澳,tsueng kwan o,tko
+专用石油气加气站,专用加气站,专用石油气站,加气站,gas station,filing station,石油气加气站,石油气站,dedicated LPG filling station,LPG filling station,filling station,LPG station,专用气站,dedicated LPG station,dedicated filling station
+专门承造商,specialists contractors
+专案,projects,计划,Scheme,plan,project,plan of action,programme,enterprise,course of action,项目,预计,规划,筹划,方案
+专业,professional,profession,specialty,specialized field,特长,专长
+专题,theme,topic
+专题会议论文,conference paper
+帐户,户口,account,账户
+帐单,bill,账单
+康复中心,Rehabilitation centre,Recovery centre,healing centre,reintatement centre,reversion centre,regression centre,Rehabiltation hub,病愈中心,复原中心
+康乐及文化,Leisure and Cultural Services Department
+强行更换,mandatory lift replacement
+强制,Mandatory,forcibly,enforce. enforce .constraint .obliged .obligatory .compulsory .requisite,inescapable,unavoidable,强行.必须 必要,不可避免,强逼,逼迫,逼使,胁迫
+强制性能源效益标签计划,Mandatory Energy Efficiency Labelling Scheme,MEELS,Mandatory Energy Efficiency Labelling Plan,Mandatory Energy Efficiency Labelling plot,Mandatory Energy Efficiency Labelling proposal,Obligatory Energy Efficiency Labelling Scheme,compulsory Energy Efficiency Labelling Scheme,Necessary Energy Efficiency Labelling Scheme,essential Energy Efficiency Labelling Scheme,必要性能源效益标签计划,强制性能源标签计划,强制性能源标签,强制性能源效益标签,MEEL
+得知,know,知道,得知,obtain,get,receive,得到
+从业员,practitioner,personnel,salesman,labourer,从事呢个行业嘅人员
+情况,condition,circumstance,situation,形势,状况,局势,局面,情形,状态,status,情况
+扫地机械人,sweeping robot,robot vacuum cleaner
+挂上,attach
+采用,Use,采纳,接纳
+采集,Take,收集,collection,采集
+采电学社,Solar Harvest
+采样,sampling size,样本,样式,采样
+探测器,detector,probe,检测器,探测工具
+接口,介面,端口,port,socket,interface
+接地故障环路阻坑,ground fault loop impedance
+接受,receive,get
+接驳,连结,接通,连接,connect,link,connection
+接驳冷热水的不绣钢波纹管,水鞭
+接驳煮食炉钢网喉,C喉
+接驳热水炉之冷热水及气喉,三支香
+控制员,controller,commander,dominater,container,overmaster,操控员,控制人员,操控人员
+控制设备,control equipment
+控制线,control line,control lines
+推广,Promoting,宣传,Publicity work,推广,promote,促销,promotion,热卖
+推荐,recommended,引荐
+措施,measures,features
+救护车,十字车,白车,救伤车,ambulance
+教育径导覽,education path,教育径
+教育短片,education videos 
+旋塞阀,Main cock
+条件,规则,规定,要求,Requirements,demands,need,condition,term,prerequisite,qualification,factor,需求,条件,需要,request,demand,requirement,terms
+梯梳,comb plate,Ladder comb,自动梯梯梳,自动扶手梯梯梳,梯梳齿
+氢氟碳化物,氯氟烃,氟氯烃,氯氟碳化合物,氟氯碳化合物,氟氯碳化物,氯氟化碳,Chlorofluorocarbons,CFCs,HFC,hydrofluorocarbon
+氢气,hydrogen
+液态缸,liquid tank,liquid vat,装液体嘅缸
+液态气体,gas in liquid form
+涵盖,cover,include,comprise,consist of,involve,incorporate,contain,embody,enclose,embrace,envelop,count,包含,包罗,算,收录,包括,包埋,包咗,including
+淘大商场,淘大
+淘汰,phasing out,裁汰,减少,落选
+淘宝,taobao
+淡水,fresh water
+淡水冷却塔系统,Fresh Water Cooling Towers System,淡水冷却塔,冷却塔系统,Cooling tower system,冷却塔,冷却水塔,cooling tower,fresh water cooling tower,cooling tower systems,冷却器,冷却体系,冷却装置,冷却制度,冷却体,fresh water colling systems,水冷却塔,水冷却塔系统
+淡水冷却塔计划,Fresh Water Cooling Towers Scheme,Fresh Water Cooling Towers Plan,Fresh Water Cooling Towers Project,Fresh Water Cooling Towers programme,淡水冷却项目,淡水冷却方案,水冷却器计画,水冷却系统计画
+深度,深入程度,depth,deepness,distance downwards,distance inward
+浅土,shallow soil
+清洗,Clean,清洁
+清单,目录,表,单,list
+清道夫,清洁工人,清洁人员,cleanner,cleaning operative
+现在,做紧,此刻,而家,目前,现时,now,依加,依家,而加
+现有,Existing 
+球阀,波掣,波子掣
+瓶装,cylinder,tank,罐,罐身,瓶身
+瓶装石油气分销商,LPG cylinder distributor,瓶装石油气经销商,罐装石油气经销商,罐装石油气分销商,石油气分销商,approved LPG cylinder distributer,LPG distributor,LPG provider,石油气供应商
+瓶装石油气分销商安全表现评级计划,瓶装石油气分销商表现评级计划,LPG cylinder distributor safety performance recognition scheme,瓶装石油气分销商安全评级计划,LPG cylinder distributor performance recognition scheme,LPG Cylinder Distributor Scheme,LPG Cylinder Distributor Performance Scheme,瓶装石油气分销商表现计划,瓶装石油气分销商评级计划,LPG distributor performance scheme,LPG distributor safety performance scheme,LPG distributor performance recognition scheme,LPG distributor safety performance recognition scheme,石油气分销商表现评级计划,石油气分销商安全表现评级计划
+产生,cause,引起,造成
+产品能源标签实务守则,Code of Practice on Energy Labelling of Products
+毕业生,graduate
+异养菌,HCC,Heterotrophic bacteria,异养细菌
+票控,prosecution,issue penalty ticket,起诉,检控
+移除,removed,清除
+移动电源,流动叉电器,流动充电器,流动电源,充电宝,尿袋,随叉,随差,奶妈,行动电源,Lithium batteries,行动充,power bank,mobile power pack,battery charger,recharger,移动电源
+符合标准声明,declaration of conformity
+符号,symbol,sign,notation,mark,象征,标志,标记,标识,记号
+第123章,Cap123,Cap.123,Cap. 123,123章,building ordinance,buildings ordinance,建筑物条例,Chapter 123,Chapter123
+第1a类,class 1a,第一a类,class 1A,第一A类,class1A,class1a
+第1b类,class 1b,第一b类,class 1B,第一B类,class1B
+第1类,class 1,第一类,class1
+第1类技工,技工1,class 1 registered gas installer,class 1
+第2类,class 2,第二类,class2
+第2类技工,技工2,class 2 registered gas installer,class 2
+第3类,class 3,第三类,class3
+第3类技工,技工3,class 3 registered gas installer,class 3
+第3(a)类,第3a类,第3类a,第三a类,class 3a,class3a
+第3(b)类,第3b类,第3类b,第三b类,class 3b,class 3b
+第3(c)类,第3c类,第3类c,第三c类,class 3c,class3c
+第406章,Cap406,Cap 406,406章,Cap. 406,电力条例,electricity ordiance,电气规例,电力法例,chapter406,chapter 406
+第470章,Cap 470,Cap470,470章,Cap. 470,建筑工地升降机及塔式工作平台 安全条例,Builders' Lifts and Tower Working Platforms (Safety) Ordinance,BLTWP Safety Ordinance,BLTWP ordinance,BLTWP条例,建筑工地升降机及塔式工作平台( 安全) 条例,chapter 470,chapter470
+第483C章,Cap.483C,Cap 483C,483C章,Cap. 483C,机场管理局条例,airport authority ordinance,机管局条例第483C章,机场管理局条例第483C章,airport authority Cap.483C,chapter 483c,chapter483c
+第4类,class 4,第四类,class4
+第4类技工,技工4,class 4 registered gas installer,class 4
+第556 a章,第556章 a,Cap 556a,Cap556a,556 a章,556 章A,Cap. 556a,香港铁路条例,Mass Transit Railway Regulations,Mass Transit Railway Ordinance,MTR Ordinance,MTR Regulation,港铁条例,香港铁路规例,香港铁路法例,chapter556,chapter 557
+第556章,Cap 556,Cap556,556章,Cap. 556,香港铁路条例,Mass Transit Railway Regulations,Mass Transit Railway Ordinance,MTR Ordinance,MTR Regulation,港铁条例,香港铁路规例,香港铁路法例,chapter556,chapter 556
+第5类,class 5,第五类,class5
+第5类技工,技工5,class 5 registered gas installer,class 5
+第610章,Cap 610,Cap610,610章,Cap. 610,Cap.610,建筑物能源效益条例,The Buildings Energy Efficiency Ordinance,The Building Energy Efficiency Regulation,The Building Energy Efficiency Law,建筑物能源效益规例,建筑物能源效益法例,建筑物能源效益准则,建筑物能源条例,Buildings Energy Efficiency Ordinance,Buildings Energy Efficiency Regulation,chapter 610,chapter610
+第618章,cap 618,Cap. 618,升降机及自动梯条例,lifts and escalators ordinance,lifts and escalators regulation,lifts and escalators rule,lifts and escalators atc,lifts and escalators article,lifts and escalators law,lifts and escalators enactment,lifts and escalators statute,lifts and escalators  injunction,升降机及自动梯规例,升降机及自动梯规则,升降机及自动梯法例,升降机及自动梯守则,升降机及自动梯条例规条,lift and escalator ordinance,lift and escalator regulations,lift and escalator rule,lift and escalator law,升降机及自动梯守则，升降机及自动梯规例，升降机及自动梯准则，升降机及自动梯规条
+第6类,class 6,第六类,class6
+第6类技工,技工6,class 6 registered gas installer,class 6
+第7类,class 7,第七类,class7
+第7类技工,技工7,class 7 registered gas installer,class 7
+第8类,class 8,第八类,class8
+第8类技工,技工8,class 8 registered gas installer,class 8
+第一组四分位数, first 25th percentile,25th percentile,first quartile,第25个百分点
+第三者,A third party,Party C,第三方,丙方,别人,其他人,他人
+第三类电路,category 3 circuit,category three circuit,type 3 circuit,type three circuit
+第四阶段,fourth phase,4th phase,第四期
+细菌测试,Bacterial tests,Bacterial examination,Bacterial  check,Bacterial tentative,细菌试验,细菌检测,细菌实验
+终止,stop,cancel,唔要,撤消,停止,停用
+组成,composition,成分,ingredient,component,ingredients,components,compositions,构成,结合,组合,constitute,compose
+组别,分组,group,category,class
+组装合成建筑法,Modular Integrated Construction,MiC,组装合成建筑,组装合成
+组织,organization,组织架构,formation 
+聊天机器人,chatbot,textbot,voicebot,bot
+处所,dwelling place,location,住所,居住地方
+被困人士,trapped,people trapped,被困者
+被困升降机吊笼, trapped inside lift cage
+规例指南,guidance note, guidance notes
+规则,规矩,规定,Requirements,needs,condition,demand,necessary,requisite,规则,法则,准则,法规,定例,原则,Principles,规限,限制,Restrict,limit,stint,restriction,restraint,constraint,bind,bridle,regulate,control,约束,限定,控制,束缚,制约,局限,限度,障碍,rules,regulations
+规格,specification,format,standard,格式,规格,版式,style,structure,标准,准则,规范
+规管,Govern,manage,regulation,overseeing,supervise,administer,管理,监管,监察,管辖,规限 ,regulate,regulating,control,rule,limitation,规定,Requirements,needs,condition,demand,necessary,requisite,规则,法则,准则,法规,定例,原则,Principles,规限,管制
+规管服务,Regulatory Services, Regulatory Service
+规模,scale
+设施,设备,装置物,facility,installation,装备 
+设计,design,策划,绘制
+设置,setting,configuration,to set,设定,set
+许可证,permit,license,excise,licence,certification,use permit,允许证,允可证,准许证,准用证,执照,凭照
+货品,货物,product,物品,material,belongings,things,嘢,东西,物件,objects,物体,goods,产品,货品,商品,merchandise,货
+软件,电脑软件,software
+途径,how to,means,ways,method,pathway,方法,procedure,solution,way,appraoch,步骤,计,办法,渠道
+这件,this,这一件
+通车,operation,开通,Open to traffic
+通知,notice,告知,advise,inform,话比
+通知电邮,电邮通知,noticed email
+通信工程,communications works,communication works
+通风孔,ventilation holes,ventilation hole,通风口,通风洞,透气孔,透气口,透气洞
+通风系统,ventilating system,air moving equipment,通风设备,ventilation
+通风机,ventilation machine
+通讯商,telecommunications operator,network operator,网路运营商,网络供应商,电讯商
+通报,report,notify,通告,notice,announcement,notification,bulletin,注意,attention,留意,留心,小心,careful,be aware of,awareness,conscious,pay attention,重视,关注,关心,着重,当心,通知,宣布,公布,告示,启事,汇报,告知
+通道,Access
+速度,speed
+造价,cost,成本,capital cost,资本,本钱,price,spending 
+部门承建商名册,Departmental Contractor Lists
+部队,军队,force,army,troop
+闭路电视,closed-circuit television ,CCTV,监视器,监控镜头,监控电视
+雪种,refrigerant,制冷剂,冷媒,致冷剂
+雪柜,refrigerator,冰箱,fridge,冷冻器具
+鱼尾板,fishplates,接合板,连接板
+麻烦,问题,problem,matter,issue,complication,trouble,obstacle,困难,more difficult,艰难,艰巨,艰苦,tough,hard,出事,毛病,麻烦,difficulty,bother,inconvience,annoyance,难题,烦人,很烦
+备案,to file
+创科初创企业,I&T start-ups,初创企业,科技初创企业
+创科专区,innozone,inno zone,inno-zone,机电创科专区,E&M InnoZone
+胜任人士,qualified persons,qualified person,Competent Persons,competent person,合格人士,有资格人士,具备条件的人士,胜任人,胜任的人,认可合资格人士,合资格人士,eligible person,eligible persons,合资格人员,Qualified Person,Competent Person,主管人员,认可合资格人员,胜任人仕
+胜任人士3,胜任人士三,competent person 3,第三类胜任人士,第3类胜任人士,competent person class 3,competent person class three
+胜任人士3a,胜任人士3A,胜任人士三A,胜任人士三a,competent person 3A,competent person 3a,第三A类胜任人士,第3A类胜任人士,第三a类胜任人士,第3a类胜任人士,competent person class 3A,competent person class three A
+胜任人士3b,胜任人士3B,胜任人士三B,胜任人士三b,competent person 3B,competent person 3b,第三B类胜任人士,第3B类胜任人士,第三b类胜任人士,第3b类胜任人士,competent person class 3B,competent person class three B
+胜任人士3c,胜任人士3C,胜任人士三C,competent person 3C,competent person 3c,第三C类胜任人士,第3C类胜任人士,第三c类胜任人士,第3c类胜任人士,competent person class 3C,competent person class three C
+喉钳,牙钳
+喉管,Pipe,Throat,tube,duct,conduit,管,喉,管道,渠道,管子,hose
+喜爱,钟意,喜欢,like,favourite,favorite
+单位,Unit,component,part,section,element,constituent,subdivision,portion,segment,module,item,零件,部分,部件,份,局部,部份,元件,细分,单元,项目,住宅单位,unit,apartment,flat 
+单身,single person,unmarried person,没有配偶
+单相,单相电,Single-phase electric power
+围栏,fencing,fence,column,hurdle,railing,cote,shed,栏,栏位,barrier
+报警装置,alarm devices,告警装置,示警装置,示警信号
+报读,enroll,take a course
+场数,session,场次
+壶身,瓶身,bottle,body,surface
+几号,几多号
+复用证,resumption permit,Reuse certificate,resumption  license,resumption licence,resumption excise,恢复使用证
+复安居计划,the RenoSafe Scheme,RSS,the RenoSafe Plan,the RenoSafe program,the RenoSafe programme,复安居方案,
+循环再用,Reuse,recycle,reprocess,rehash,reuse for new purpose,再用,再使用,循环再利用
+掣版,电掣面板,switch panel
+掣柜,switchboard
+描述,简介,description,describe
+提供,供应,supply,俾,provide,畀,提供,比,有
+提取,取,攞,拎,pick up
+提醒,remind,提示,警示,警号,tips
+插脚,插头,plug
+插头,插座,插苏,socket,接头,plug
+敦促改善通知书, improvement notice,善通知书,IN 
+普及,popular,遍及,广泛
+普通楼梯,staircase,Ordinary stairs,normal stairs,stairs,usual stairs,common stairs,average stairs,一般楼梯
+普遍,commonly,usually
+暑期实习人员,summer interns
+替换,replace,取替
+最大装饰负载,maximum decoration load
+最低,lowest,minimum,最少,min,下限
+最低浓度循环倍数,Minimum cycle of concentration
+最高三类,top 3 end-uses,最多三类,首三名
+最高车速,maximum running speed,speed limit,车速限制,车速上限,最高行车速度
+最高高度,highest level,最高,highest,maximum,最多,max,上限,upper limit,ceiling,最长,highest 
+最斜,the steepest,陡峭,斜
+最新,new,最近,近期,current,近来,近日,latest,呢排,呢轮
+最新消息,最新资讯,latest news,updated news,latest information,最新资料
+期限,deadline,time limit,alloted time,限期,时限,
+款,type,款式,kind,类型,样式,总类
+减低,Reduce,减少,逐步降低,reduce,decrease
+渠道,Channel,频道
+测试,testing,test,assessment,assess exam,examination,测验
+测试报告, test report,examination report,tentative report,quizing report,
+港灯的智惜用电楼宇基金,HEC's Smart Building Fund,智惜用电楼宇基金,Hong Kong electric company's Smart Building Fund,香港电灯有限公司智惜用电楼宇基金
+港铁公司,MTRCL,港铁,MTR Corporation Limited,MTR,港鐡
+港铁四条铁路綫,four MTR lines,港铁荃湾线,港岛线,观塘线,将军澳线四条线
+港铁石岗车厂,Shek Kong Stabling Sidings,八乡锦田公路港铁石岗车厂
+港铁站,MTR station,地铁站,地铁车站,港铁车站,港鐡站,地鐡站
+港铁设备,equipment of MTR,港铁设施,MTR equipment,港铁装备,MTR facilities,MTR device
+滋生蚊虫,Mosquito breeding,Mosquito mating,Mosquito incubation,Mosquito hatch,蚊虫孵化,滋长蚊虫,孽生蚊虫,诱致蚊虫
+滋扰,nuisance
+无人看管,unattended,冇人睇着,冇人理
+无人驾驶列车,driverless train,香港国际机场无人驾驶列车,二号客运大楼无人驾驶列车,无人驾驶,列车自动运行,Driverless Train Operation HKIA driverless train,T2 driverless train
+无源,无须能源,不用电源,唔驶电,passive,non-eletrical generated
+无源探测,passive detection
+无障碍服务,accessibility,无障碍
+无障碍声明,Accessibility Statement,accessibility guidelines 
+煮食炉,cooking stove,kitchen stove,stove,cooker,煮食炉具,炉,炉子
+牌子,brand,label,trademark,商标,品牌,牌子,嘜头
+牌照,执照,凭照,牌,licence,permit
+登入,sign in,log in,access,进入,log on,登录
+发生故障, the service disruption,发生事故,发生意外,故障,损坏,坏咗,无法使用,不正常,malfunction,go wrong,abnormality
+发生电力事故,the electrical incident,发生电力故障,电力事故,发生电力意外
+发光二极管,LEDs,Light- emitting diode,Led lights,led灯,led灯辔,发光管
+发光效率,Luminous Efficacy
+发光电容出口指示牌,light emitting capacitor (LEC) exit sign,发光应急指示牌,墙貼自发光安全出口指示牌,自发光消防出口牌
+发放车辆维修工场资讯表格,form for Release of Information on Registered Vehicle Maintenance Workshops,Form A,表格A ,表格 A
+发表,post,提交,Submit,呈交,Submission,refer. Present,hand in,assume,petition,memorial,send,hand over,commitment,递交,上缴,呈,呈递,给,交付,交出,submit,发布,po文,张貼,发出,Promulgated by,颁布,作出,issue,送出,publish
+发展,development
+发展区,Development district 
+发展项目,development project,发展计划,发展工程,Development Plan,Development project 
+发展蓝图,roadmap,路线图,blueprint
+发电成本,cost of electricity
+发电设施,generating facility
+发电厂,power station,power stations
+发电机,Electric generator,备用发电机
+短片,短影音,short film,short video,
+短仔螺丝批,冬菇批
+硬性,要求,Requirements,demands,need,condition,term,prerequisite,qualification,factor,需求,条件,需要,规定,request,demand,命令,mandate,instruction,
+程式,program,app,application,
+窗户,窗,窗口,窗花,窗子,窗扉,窗户,window,casement
+等同,same as,equals to,
+等级,级别,等级,次序,level,grade,scale,rank
+策略,战略,谋略,筹略,方法,procedure,solution,method,way,appraoch,means,步骤,计,办法,strategy,plan,mean
+策略业务单位,strategic business units
+紫外线灭菌器,UV sanitizer,UV sterilizer,紫外线杀菌仪器,紫外线消毒器,Ultraviolet rays sanitizer
+结果,outcome,consequence,ramification,result,后果,结果,influence,aftermath,effect,成果,效果
+絶缘法兰套件中的螺丝胶套,虾壳
+华白指数,Wobbe number,Wobber Index,韦伯参数,韦伯指数,华白参数,WI,WN
+虚假信息,false information,sham information,artifical information,phony information,suspended information,fake massage,false massage,bogus information,false new,sham intelligence,phony intelligent,虚假情报,假消息,虚假消息,伪信息,虚伪消息
+视为,considered,看作
+门的驱动器,Door Drive
+诊所,Clinic,health centre,poluclinic,医务所,诊疗所,卫生所,医疗室
+注册,register,registration,注册,sign up,registered,登记,注册
+注册升降机工程人员,registered lift worker,registered elevator worker,升降机工程人员,升降机人员,注册升降机人员，注册升降电梯人员,注册垂直电梯人员,lift mechanic,升降机维修员,升降机技工,rlw
+注册升降机工程师,registered lift engineer,registered elevator engineer,升降机工程师,合资格升降机工程师,registered elevator technician,registered lift technician,升降电梯工程师，垂直升降机工程师，𨋢工程师
+注册升降机及自动梯工程师,registered lift and escalator engineer,lift and escalator engineer,registered lift and escalator technician, lift and escalator technician,升降机及自动梯工程师
+注册升降机及自动梯承办商,registered lift and escalator contractor,lift and escalator contractor,registered lift and escalator contractor commissioner, lift and escalator commissioner,registered lift and escalator purveyor,lift and escalator purveyor,合资格升降机及自动梯承办商,升降机及自动梯承办商
+注册升降机承办商,registered lift contractor,lift contractor,registered lift commissioner,registered elevator commissioner,合资格升降机承办商,升降机承办商,registered lift purveyor,registered elevator purveyor,elevator conrractor,𨋢承办商,升降电梯承办商
+注册升降机新合约条款,terms and conditions of new lift contract,New contract terms for registered lifts, terms and conditions of new elevator contract,New contract terms for registered elevators,升降机新合约条款,升降机新合约条文,升降机新合约规条,clause and conditions of new lift contract,provision and conditions of new lift contract
+注册及许可证办事处,注册办事处,许可证办事处,注册及许可证处,Registration and Permit Office,Registration Office,Permit Office
+注册自动梯工程人员,registered escalator worker,registered escalator navvy,registered escalator labor,registered escalator laborer,自动梯工程人员,自动梯人员,合资格自动梯工程人员.注册自动梯人员,注册扶手梯工程人员，注册电梯工程人员
+注册自动梯工程师,registered escalator engineer,registered escalator technician,自动梯工程师,合资格自动梯工程师,扶手梯工程师,电梯工程师
+注册自动梯承办商,registered escalator contractor,registered escalator commissioner,registered escalator purveyor,合资格自动梯承办商,自动梯承办商,扶手梯承办商,电梯承办商
+注册车辆维修工场,registered maintenance workshops,汽车修理店舖,汽车维修理店舖,汽车维修店,汽车维修理店
+注册车辆维修技工,registered vehicle mechanics
+注册承办商,contractor,注册承建商,承办商,成建商,承建商,registered contractor,承包商,包工,承包人,承办者,注册承办商,RC,commissioner,purveyor,registered commissioner,registered purveyor,合资格承办商,合资格承建商
+注册纪录,registration record
+注册计划,registration scheme
+注册气体供应公司,气体供应公司,registered gas supply company,registered gas supply companies,注册气体供应公司,RGSC,gas supply company
+注册气体装置技工,registered gas installer,气体装置技工,RGI,气体技工,注册气体技工,gas installer,gas worker
+注册能源效益评核人,Registered Energy Assessor,注册建筑物能源效益评核人,REA,建筑物能源效益评核人,合资格建筑物能源效益评核人,注册建筑物能源效益评核员,建筑物能源效益评核员,Registered Energy appraiser,Registered Energy examiner,Registered Energy overseer,Registered Energy censor,Registered Energy auditor,注册能源效益审核人,注册能源效益评鉴人,注册能源效益评审人,注册能源效益评估员,注册能源效益平点人,能源效益评核人
+注册电工证书,Certificate of Registration of Electrical Worker,香港注册电工证书
+注册电业,registered electrical 
+注册证明书,registration card,注册证书
+评核结果,performance result,评核成绩,Evaluation results,考核成绩,评核表现,考核表现,Performance assessment
+评级,评分标准,rating criteria
+评级计划,recognition scheme
+评级标准,grading standard, standard of grading
+评论,comment,评价,评语,品评,review,suggestion,suggestions, opionion,意见,建议
+买卖,Sale,business,transaction,bargain,business dealings,merchadise,vending,disposal,dealing,交易,deal,商业,commercial,商务,业务,生意,收售,兜售
+费用,Fee,cost,expense,charge,rate,expenditure,spending,fare,outlay,花费,收费,洗费,用费,开支,支出,经费,几多钱,多少钱,使费,收几钱,几钱,how much,费用为何,比几钱
+貼上,affix,affixing,stick,貼,affixed,粘貼
+超重警铃,overload warning,Overweight alarm bell,Overweight alarm,Overweight warning,overload alarm,超重警钟,过重警钟,过重警铃
+超逾 ,more than,exceeding,exceeds,over
+超额,Overrun capacity charge,
+越野赛事,trail race,Off-road race,越野比赛,越野赛车
+距离,距,间隔,distance,interval
+周年,anniversary,annual
+周年检查,年检,The annual examination,Annual inspection,The annual check,年度检查,年度检测,年度检验,annual check up,annual investiation,annual inspection
+进入,entering,access,入去
+进口,import,输入,外地入口
+进口商,importer,importers,入口商
+进行,Carry out,conduct,carry on,do,execute,deadway,Implement,enforce,comply,fuifill,put into effect,put into,做practice,prosecute,实行,落实,实施,执行,enforces,implement,行动,Action 
+进度,进展,advance,progress
+邮件,mail
+乡村,village,countryside,country,rural area,村庄,农村
+乡村车辆,乡郊车,village vehicle
+开行,train move,出行
+开始,start,begin
+开关,断路器,空气开关,保险掣,无熔丝开关,switch,circuit breaker,CB
+开关速度,overspeed
+间歇性,intermittent,不稳定性
+项目,matter,item,事项,项目
+项目管理,Project Management 
+须知,tips,貼示,注意事项,note,notice,条款,条文,policy,政策,方针,留意什麽,注意乜嘢,留意乜嘢
+须填妥,complete,fill in,须填好,要填好
+饭,rice,meal
+饭煲的温度检测装置,肚池,燃气煮饭炉的温度检测装置
+饮水机,water dispenser,Drinking fountain,water cooler,bottled water cooler,bottom-laod water dispenser,water fountain,水机,water dispenser machine
+饮料,drinks
+黄大仙,wong tai sin
+黄线外等候列车,stand behind the yellow line,黄线外等候
+黑色暴雨,black rainstorm,黑雨
+传真号码,fax number,fax no,传真编号
+传统,Traditional
+传统发电方式,conventional power generation,传统发电
+传统电热系统,solar water heating system,传统电热器,电热器,电热系统,Traditional electric heating system
+伤残人士楼梯机,stairlift for disable person,cost of repair,Staircase for the disabled,行动不便人士楼梯机， 伤残人士梯机 ,行动不便人士梯机
+倾斜,tilted,斜,抖斜,slanting
+汇丰,HSBC,Hong Kong Bank,滙丰
+塑胶,胶,plastic
+塔吊,天秤,塔式起重机,tower crane,crane
+塔式工作平台,TWP,塔式工作台,Tower Working Platforms,塔式工作平台,塔式工作台,tower working platforms
+塔式工作平台注册承建商,registered contractors of builders' lifts and tower working platforms
+填写,write,填,交,填报
+微波炉,microwave oven
+微型断路器,Miniature Circuit Breaker,MCB
+意见,见解,看法,想法,opinion,idea,point of view,pov,thought,意味,定义,Definition,circumscription,denotation,explanation,outline of meaning,statement of meaning,exposition,意思,含意,界定,意义,解释,界说,说明,mean,define,definition,meaning
+感应,detected,感到,感觉,感受到
+感应能力,sensitivity,Sensing ability
+损毁,烂咗,整烂,瑕疵,烂左,损坏,坏左,坏咗,damage,broken,烂了,坏了
+损坏的发电机, defective generator,malfunction is found in generator,generator malfunctions
+搬走,丢弃,弃置,dispose,扔掉,abandoned,抛弃,唔要,disposal,遗弃,throw away,拎走,拿走,攞走,搬咗,搬迁,地址改咗
+搭配,配撘,matching,配搭,撘配,match
+新,new
+新入职,newly employed,新聘,新请,新嚟,新黎,新来,新到
+新加,add,增加,have more,get more,set more,添加,become,成为,register,注册,加到,加入
+新石油气瓶,new gas cylinder,new cylinder
+新的机场旅客捷运系统,new APM system,New Automated People Mover (APM) system,新APM系统计划
+新建筑,new building,新屋,new housing,new house department,新住宅,新楼宇,新楼
+新建筑物,New buildings,新楼宇
+新界豁免屋宇,New Territories Exempted Houses,村屋,新界豁免管制屋宇
+新界豁免管制屋宇,New Territories Exempted Houses,丁屋的新界豁免管制屋宇,丁屋
+新香港建筑物能源效益注册计画,建筑物能源效益注册计画,能源效益注册计画,Energy Efficiency Registration Scheme for Buildings,EERSB
+新电线颜色代码,new CCC,new cable colour code,new cable colour 
+新增,Additional,增添
+会议,开会,meeting,conference,
+业主,owner
+业界,industry,行内
+业务,business scope,operational,sales,professional work,行业事务
+准则,standard,rule,criteria,maxims,标准,
+温度,temperature
+灭火筒,灭火器,fire extinguisher
+灭蚊机,除蚊机,灭蚊器,捕蚊机,mosquito killer machine,mosquito trap machine
+烟,smoke,fume,gas,smog,vapour
+煤,coal,煤油,煤快,anthracite,无烟煤,白煤,硬煤,hard coal,white coal 
+煤气,town gas,coal gas,瓦斯,汽油
+煤气公司,town gas company
+煤气供应,town gas supply,gas supply
+煤气泄漏,gas leak,gas leakage,漏煤气,
+煤气干衣机,gas dryer,gas clothes dryer,干衣机,dryer,clothes dryer,tumble dryer,衣物烘干机,烘衣机,烘干机
+煤气喉管,town gas pipe
+煤气装置,town gas installations,town gas installation
+煤气装置工程,town gas installation works
+煤气表上的试压螺丝,表的
+照明功率密度,Lighting Power Density,LPD
+照明糸统,lighting systems,lighting equipment,lighting distrubution,lighting insitution,照明装置,照明体系,照明体制
+照明设计,task lighting design,Lighting Design,工作照明设计,Lighting design software
+照明装置,lighting,lights,lamp,lamps,灯,家用照明产品,照明器具
+当天,当日,嗰日,那日
+节省,Saved,省下
+节能,Energy saving,Energy conservation,Energy economize,Energy thrift,节省能源,节约能源,减低耗能,保存能源,节能,悭电,省电
+节能科技,energy saving technologies,节能技术,悭电技术,悭电科术
+节能约章,Energy Saving Charter,Energy saving contract,Energy conservation charter,Energy economize deed,Energy thrift contract,节省能源约章,节约能源约章,减低耗能约章,保存能源约章
+经理,manager
+经过,running,开过,行过
+署长,机电工程署署长,机电署署长,机电工程处处长,机电处处长,director of EMSD,general manager of EMSD,Poon Kwok-Ying,Raymond Poon,潘国英,KY Poon,Poon Kwok Ying,director, emsd director,气体安全监督,Gas Authority,处长,DEMS
+圣诞,Christmas,max's
+圣诞灯饰,domestic Christmas lighting,christmas lighting,x'mas lighting
+万能苏,万能插苏,配接器,适配器,adaptor
+落实,Implement,carry out,fulfil,put into effect,practical,workable,实行,履行,兑现,实施,执行,enforce,enforces,implement,实践,切实
+补救措施,Remedial action
+装于气仓内喉管上的1/4” 压力泄放阀,炮仗仔
+装修工程,装修,renovation work
+装修重量,decoration weight,adornment weight,装饰重量
+装置,fittings,device,equipment,accessory,installation,设备,Equipment,apparatus,facilities,implement,equipage,panoply,configuation,deploy,装备,配置,装置,设置,器材,installations
+解决,安排,Arrangement,arrange,办理,处理,deal with,解决,solve,handle,carry out ,do,manage安排,应对,tackle,carry out,点算,settle
+试孔,trial hole,test hole,试孔挖掘,trial hole excavation
+资助,subsidy,funding,financial aid,subsidize,补助,补貼,搭补,fund,asistance,donate,donation,基金,financial endowment,援助,津貼
+资助计划,subsidy scheme,funding scheme,financial aid scheme,subsidize scheme,subsidy program,subsidy plan,subsidy plot,资助方案,资助策划,补貼计画,补助方案
+资金,头寸,funding
+资料趋势,data trend,information tend,资料趋向
+资讯,资料,information,data,数据,资讯,materials ,detail,fact,信息,message,msg,info,情报
+资产管理系统,Asset Management system,资产管理
+资历,Eligible,Qualifications,suitability,aptitude,资格,Qualification,eligibility,condition,requirement,term,prerequisite,qualification,factor,资历,履历,经历,经验,心得,experience,knowledge,历练,qualify,competence,学历,资质
+跟进,follow up
+跟进机制,follow up mechanisms,Follow-up mechanism,Follow-up action mechanism
+路段,section,部分,部件,份,局部,part,component,segment,部份,compontent,element 
+路轨,railway,铁路,铁路轨,铁路路轨,railway track,track,轨道,p way,p-way,pway,permanent way,guideway
+路轨有裂痕,rail crack,路轨裂开
+路轨底,rail base,路轨底部
+路线,railway lines,lines,綫路,列车路线
+跳掣,跳制
+较低,low
+载客升降机,passenger lift,passanger elevator,customer lift,customer elevator,guest lift,visitor lift,客用升降机,guest elevator,客人用升降机,客人用𨋢,客人用升降电梯,客𨋢,客人升降机,载客升降电梯,客用𨋢
+载客电车,passenger trams,电车载客量
+载货升降机,goods lift,service lift,Load lift,service elevator,load elevator,cargo lift,cargo elevator,freight,货物升降机,载物𨋢,载货升降电梯,货𨋢,载物升降机
+载货用途,transporting goods,载货,carrying loads,carrying cargo,carrying freight,Cargo use,transporting cargo,transporting freight,transporting merchandise,transporting commodity,freight use,goods use,merchandise use,commodity use,载物用途
+载货的垂直升降台,Lifting platform,Vertical lifting platform for cargo,up and down platform for goods,lifting platform for cargo,载物升降平台,载货升降台
+载货间,load-carrying part,
+农地,farm area
+农场,农田,农庄,farm
+农历新年,新年,CNY,农历年,新春
+遇到事故,encounter an accident,遇到意外,事故事件,意外事件,遇到突发,突发事件
+游戏机许可证,Permit to Use and Operate for Amusemnt Ride,机动游戏机使用及操作许可证,Amusement ride license,license to Use and Operate for Amusemnt Ride,consent to Use and Operate for Amusemnt Ride,excise to Use and Operate for Amusemnt Ride,certificate to Use and Operate for Amusemnt Ride,机动游戏机许可证,游戏机使用及操作许可证
+运用,使用,using,采用,应用,use,利用,用处,用法
+运载,transport,运送,运输,carriage,conveyance
+运载石油气瓶,运送石油气瓶,运石油气瓶,运石油气罐,运送石油气罐,运输石油气瓶,运输石油气罐,Conveyance of LPG Cylinders,carrying LPG cylinders
+运输,Transport sector,运输业,交通业,traffic sector,Transport
+过了期,过期,expired,expire,到期,期满,满期,expiry,过了期,过左期,过了
+过往,旧时,以前,过去,曾经,之前,past,已经,已
+过期,period
+过程,程序,步骤,次序,steps,procedure,measure,move,点做,要点做,点搞,流程,process
+过载保护装置,overload protection device,overload conservation device,overload conservancy device,overload aegis device,overload protection equipment,overload protection system,overload conservation implement,overload conservation facilities,超载保护装置,过载保护系统,过载保护设置,过载保护设备
+达标,Compliance,合规格
+违反法例,违法,illegal,非法,不法,不合法,犯法,唔合法
+违反机电工程署法例,lifts and Escalators Ordinance
+违例者,违规者,offender
+违例建筑物,Unauthorised Building Works,未经认可的建筑工程,僭建物
+违法,illegal,illicit,unlawful,illigitimate,outlawed,犯法,非法,不法,不合法
+违规,Non-compliance,violation,defiance,failure to act,non-fulfillment,failure to fulfill,Not comply,counter,go against,disobey,defy,be contrary to,transgress,infringe,违反,不遵守,违背,触犯,violate,不履行,侵害,侵犯,逆,忤逆,违逆,违抗
+违规建筑物,illegal structures,违规加建物,Illegal buildings,violation buidings,violation structures,违规潜建物,违反加建物,违反建筑物 
+铅水配件表面有细小气孔,沙眼
+闸,floodgate,penstock
+零件,部件,元件,构件,components,part,piece,element,unit,item
+雷射光,laser
+电力工作证明,proof of electrical work experience,proof of electrical experience
+电力工程,electrical work,电力工作
+电力公司,供电公司,electric power company,electricity co.,power company
+电力分站,变电所,substation,electrical substation
+电力安全评估表格,electricity safety assessment form
+电力系统,power system,电力系统设计,电力,electricity,power system design,power systems technologies
+电力法例部,Electricity Legislation Division,法例部
+电力法例部,机电工程署电力法例部,Electrical Legislation Division,ELD
+电力配置系统,power distribution system,electric power distribution system,electirc power allowcation system,power assignment system,power distribution equipment,power distribution insitution,电力配置装置,电力配置体系,电力配置体制
+电力规管,statutory control for electricity
+电力牌照,certificate of registration of electrical worker
+电力意外,electrical danger,electrical incident,electrical accident
+电力线路规例工作守则,Code of Practice for the Electricity (Wiring) Regulations,Code of Practice for the Electricity Regulations,CoP for the Electricity (Wiring) Regulations,CoP for the Electricity Regulations,Code of Practice for the Electricity Wiring Regulations
+电力总制,总掣,总电源开关,供电总掣,main switch
+电力总量,total electricity consumption,total electricity,电力消耗总量,电力消费总量
+电子,e-version,online,electrical,electronic
+电子招标平台,E-tendering platform,Electronic bidding platform,Electronic tender platform,E-tendering terrace,Electronic bidding terrace,电子招标平台,电子招标台,电子投标平台
+电子产品,电子机械设备,家用电器,家电,家居电器,家庭电器,household electrical product,home appliance,household electrical appliance,electronics,home electronic,electronic equipment,electronic gadget,电子器具,电器,electrical appliance
+电子烟, e-cigarette products,e-cigarette,electric cigarette
+电子镇流器,electronic ballast
+电工,电业工程人员,electrical worker,electrician,REW,registered electrical worker,注册电工,注册电业工程人员,电力技工,电力工程人员,注册电力工程人员
+电工牌,REW,电工注册证明书,电牌
+电池,干电池,dry cell,battery
+电车司机,tram driver,driver,叮叮车司机
+电车的安全,tramway safety,电车安全,电车安全规则
+电车的载客量,tram's capacity,Passenger capacity of trams,,叮叮的载客量
+电车站,tram stops,叮叮站,tram station 
+电车路线,the tram route,电车路线图,叮叮路线图
+电车电线柱,tram pole,电车电柱
+电制,power switch
+电制房,掣房,main switch room,switchroom
+电信工程,telecommunications works
+电风扇,电扇,electric fan,fan,
+电唧车,electric powered forklift truck,electric powered Pallet Truck,电动唧车
+电气二级监工,electrical works supervisor II,electrical works supervisor 2,works supervisor 2,works supervisor II
+电气条例,Electrical Products (Safety) Regulation,Electrical Products Safety Regulation,Electrical Product Regulation,电气产品(安全)规例,电气产品安全规例,电气产品规例,电器产品安全规例,电器安全规例,电器规例
+电气产品,electrical product,electrical products,electrical appliance,电器产品,电器,电气
+电气产品分部,Electrical Products Sub-Division
+电气喉管,electrical conduit,electrical conduits
+电蚊拍,蚊拍,捕蚊拍,mosquito swatter,electric fly swatter
+电动手推车,electrically charged trolley,electric trolley,electrically trolley
+电动牙刷,electric toothbrush
+电动车,electric vehicle,elcectric car,电动汽车,电池车,电子车
+电动垂直升降台,electric Lifting platform,electric powered Lifting platform,Vertical lifting platform,Electric vertical lifting table,电动垂直升降平台,电垂直升降台,电垂直升降平台
+电动座椅楼梯机,Electric seat stair machine,chaired stairlift,electric chaired stairlift,电动座椅梯机,电座椅楼梯机
+电动干衣机,Electric Clothes Dryers,electric drying machine,clothes dryer,dryer,干衣机,tumble dryer,衣物烘干机,烘衣机,烘干机,电动干衣机器
+电梯,lift,elevator,升降机,𨋢
+电围栏,电子围栏,electrical fence,electric fence
+电掣,power switch
+电掣房,掣房,main switch room,switchroom,开关掣房
+电费,electricity charges,electricity bill
+电邮,mail,email,电子邮件
+电邮地址,email address
+电量,Energy
+电须,电动刮胡刀,电动剃须刀,电动须刨,电须刨,须刨,electric razor,razor,
+电饭煲,electric cooker,饭煲,rice cooker
+电暖炉,暖风机,electric heater,
+电业,electrical
+电业工程人员的注册证明书,REW certificate,registered electrical worker certificate,electrical worker certificate,电业工程人员注册证明书,电工注册证明书,电业工程人员注册证书,电工注册证书,电业人员注册证明书,电业人员注册证书
+电业承办商,electrical contractor
+电源,power,electric power
+电源线,电线,power cable,cable conductor
+电脑,电子计算机,电子脑袋,计算机,computer,personal computer,PC
+电脑化控制柜,computerized lift,Computerized control cabinet
+电话号码,联系号码,联络号码,phone number,telephone number,line number,服务电话,number,电话,lum把
+电路分隔,circuit separation,segregation
+电路规例工作守则,电路 (线路 )规例工作守则,电路线路规例工作守则,电路工作守则
+电路类别,circuit category
+电闸,闸刀,electric brake,electric switch,electrically operated sliding gates
+电磁场,Electromagnetic Fields,EMF
+电磁镇流器,electromagnetic,Electromagnetic ballast
+电磁炉,induction cooker,induction stove
+电网,输电网络,输电网路,electrical grid,electric grid,power grid
+电热水壸,电热水器,electric water heater,water heater,electric water boiler kettle,water boiler
+电热水炉,电热水器,electric water heater,electric heater
+电热毡,电暖毡,电暖垫,electric blankets,electric heating blanket
+电线,electric wire,wire
+电线槽,trunking,cable trunk
+电线颜色代码训练,CCC training 
+电发夹,直发夹,直发器,卷发器,electric hair styler,hair curler,hair,hair straightener
+电机,马达,Electric machinery,electric machine,motor
+电表,电度表,electricity meter,electric meter,electrical meter,energy meter
+电压,voltage
+电榄,cable
+电榄探测,cable detection,cable detection work
+电榄资料,cable information 
+电榄图则,cable plans
+电榄耦合器,cable coupler
+电钻,electrical drill
+预先,提早,预早,提前,事先,in advance
+预防退伍军人病委员会,Prevention of Legionnaires’ Disease Committee,Prophylaxis of Legionnaires’ Disease Committee,precaution of Legionnaires’ Disease Committee,safeguard of Legionnaires’ Disease Committee,provision of Legionnaires’ Disease Committee,sanitation of Legionnaires’ Disease Committee
+预防措施,precautionary measures,预防,prevent,preventive measures 
+预约,book,reserve,booking,book an appointment
+预留,留底,留低,reserve,预订+B1202
+预制线路系统,prefabricated wiring system
+预覽,preview
+颁布,promulgated by 颁授
+雇主,employer,boss,老板,老细,老板
+厌氧消化技术,anaerobic digestion,厌氧消化科技
+图片,图,相,图则,图示,图表,picture,photo,pic,figure,chart,照片
+团体,group 
+实地试验,site trial,现场试用
+实行,implement,实施,执行,enforce,enforces
+实务,要务,practicable,practical
+实务守则,Code of Practice for Lift Works and Escalator Works,legislation of Practice for Lift Works and Escalator Works,law of Practice for Lift Works and Escalator Works,statute of Practice for Lift Works and Escalator Works,enactment of Practice for Lift Works and Escalator Works,rule of Practice for Lift Works and Escalator Works,实务法规,实务规条,实务条例
+实务指引,practice guidelines,practice guideline
+实质,in reality,实际,事实,现实
+对讲机,intercom,walkie talkie,interphone,transceiver,报话机
+幕门,screen doors,月台幕门,月台自动幕门,Platform Screen Door,PSD
+态度,语气
+旗下,sub-brand
+构造,construction,建造,结构,架构,structure,构造,formation,composition,constitution,configuration
+渗水,water seepage
+滚动式热交换器,Heat wheel,Rolling heat exchanger,Heat wheel exchanger,Rolling heat switch,heat wheel switch,滚动式热转换器,滚轮式热交换器
+漏气,gas leakage,气体泄漏,泄漏气体
+漏电,electricity leakage
+漏电断路器,RCD,residual current device,earth leakage circuit breaker,ELCB,水气掣
+熄火保险装置,熄火装置,flame failure device,FFD
+荧光灯,fluorescent lamps,萤光灯具,fluorescent light,fluorescent lantern,fluorescent lamps burner,fluorescent value
+熔断开关,fuse switch
+疑问,查询,问题,异议,enquiries,problem,疑难,inquiry,enquiry,inquiries,query, queries,问野,咨询,查问,询问,Interrogation,讯问,疑问,check ,matter,issue,complication,trouble,obstacle,困难,more difficult,艰难,艰巨,艰苦,tough,hard,出事,毛病,麻烦,difficulty,bother,inconvience,annoyance,难题,question,ask
+监察,monitor,监视,监控,监督,supervise,supervisor,监察,监管,睇着,巡查,inspection,调查,审查,批查,Checks,搜查,inspect,管制
+碳审计,碳审核,carbon audit
+管制人员,controlling officer,批核人员,主管人员
+管理,manage
+管理员,management staff,大厦管理员,administrator,manager,controller,conservator,keeper,custodian,executive,管理人,管理人员
+管理处,管理公司,management office,Property Management Office,administration office,keeper office,executive office,管理署
+管道,pipeline,conduit,管
+綜合工程部,General Engineering Services Division
+綜合用途建筑物,Composite building,complex building,Mixed-use building,Comprehensive-use building,integrate building,synthesize building,Multi-purpose building,綜合大楼,綜合大厦,多用途建筑物,多用途大厦
+绿化措施,Greening feature
+绿表置居先导计划,Green Form Subsidised Home Ownership Scheme,绿置居,GFHS,Green Form Subsidised Home Ownership Plan,Green Form Subsidised Home Ownership project,Green Form Subsidised Home Ownership program,绿表置居先导方案
+绿建环评,Hong Kong Green Building Council,Hong Kong Green Building Committee,Hong Kong Green Building Commission,Hong Kong Green Building Assembly,Hong Kong Green Building Conference 
+绿适楼宇基金,CLP's Eco Building Fund,CLP Eco Building Fund,中电绿适楼宇基金,绿适楼宇基金,Eco Building Fund
+维修,maintence,维修服务,repair,维护,maintenance,修理
+维修工作,repair works,restore works,renovate works,fix works,mend works,修复工作,修理工作,修补工作
+维修工场,工场,site,workshop,工作场地,工作场所,车房,garage,vehicle repair workshop,车辆维修工场,workshops
+维修分区保养站,maintenance stations,Repair zone maintenance stations,repair maintenance stations,restore maintenance stations,renovate zone maintenance stations,维修保养站,修复分区保养站,保养站
+维修成本,cost of repair,cost of restore,cost of renovate,price of repair,fee of repair,value of repair,维修花费,维修费用,维修价钱
+维修热线,Maintenance Service Hotline,maintenance hotline
+网上,ｏｎｌｉｎｅ,上网,互联网,web-based 
+网上注册,online registration
+网址,website,webpage,URL,Internet site,网站,互联网网址,互联网网站
+网站,网页,webpage,website,links
+紧急工程,urgent work,urgent project,
+紧急事故,紧急情况,emergencies,emergency
+紧急装置,emergency devices,urgency devices,first aid devices,emergency equipment,urgency apparatus,emergency installation,urgency implement,紧急设备,紧急设置
+紧凑型荧光灯,CFL,悭电胆,Compact fluorescent lamp,Compact fluorescent light,Compact fluorescent lantern
+罚则,Penalties,fine,punishment,forfeit,penal sum,amercement,punish,penalize,castigate,gruel,惩罚,刑罚,制裁,罚款,惩治,惩处,处罚,penalty
+聚合物,有机聚合物,polymer
+聚合物锂电池,lithium-polymer batteries,lithium-polymer battery
+蒸发式冷凝器,Evaporative condensers,Evaporative cold coagulator,蒸发式冷凝固器,蒸发式冷凝系统
+制冷,cooling
+制冷设备,air conditioning equipment
+制冷量,Cooling Capacity
+制造,生产,produce,manufacture,build,create,make
+制造商,manufacturer,producer,厂商,manufacturers,生产商,制造商,承建商,承办商,supplier,认可制造商,recognized manufacturer,生产厂家,制造业者
+制造凉气机器,cooling devices,制冷器
+制备场,preparation establishment 
+认可核证团体,recognized certification body,recognized certification bodies,certification body,certification bodies,核证团体,认可核证团体,Recognized Certification Bodies,RCBs, 认可的认证机构,认证机构, 认证团体
+语言,language,语种,languages
+説明书,使用手册,rap,owner's manual,instruction manual,user guide
+宾馆,guest house,酒店,Hotel,Homestay,民宿,旅舍,旅馆,motel,aparthotel,hostel,B&B,guesthouse,lodge,旅店,旅社,客栈,栈房,客店,宾馆,饭店
+轻度易燃,mildly flammable
+轻度易燃雪种,mildly flammable refrigerant
+轻重,heavier,lighter,较重,较轻,重d,轻d,重啲,轻啲
+轻铁iSPS,iSPS in Light Rai,Integrated Speed and Position Monitoring System,iSPS,綜合车速及位置监督系统
+轻铁路线,light rail lines,轻铁綫,轻铁,轻便铁路,LRT
+遥距控制器,遥控器,远程操控器,remote,remote control
+递交,submit,呈交,Submission,refer. Present,hand in,assume,petition,memorial,send,hand over,commitment,递交,上缴,提交,呈,呈递,给,交付,交出,give,交给,Submit,交比
+银卡,silver card
+铜性损耗,copper loss,铜损
+阀门,valve,凡而
+需求量,quantity demanded
+需要,need,要,需求,要唔要,要不要,洗唔洗,使唔使,须要
+领取,拿,攞,pick up
+台风,typhoon,打风,打台风,hurricane,Typhoon signal no 8,Typhoon signal no 10,强台风,热带风暴,强烈热带风暴,风球,烈风信号,暴风信号
+价格,售价,price,价钱,标价,定价,零售价
+价格上限,上限价格,ceiling price,price ceiling,零售价格,retail price,定价
+喷注系统,injection system
+坠进,fall onto,掉进,跌进,fall down,fall into,跌落,坠落,falls onto,falls down,falls into
+增加,increase
+增强,enhanced,加强,强化,深化,加固,reinforce
+审批,Approve,审查
+审核人员,Audito,inspectorsr,censor,examiner,observer,viewer,supervisor,overseer,overlooker,审查人员,审视人员,检测人员,检查人员,审阅人员,检阅人员,复刻人员
+写字楼, offices,办公室,办公楼,办公大楼,Office building
+宽限期,transitional period,过渡时期,过渡期
+厨房,kitchen,cooking area,kitchenette,galley,cookhouse,
+厂家,生产厂家,厂商,工厂,factory,plant
+废铁,scrap iron 
+废铁收集商,scrap metal collectors,scrap metial collector
+广告,告示,通知,启事,notice,notification,announcement,advertisement,commercials
+影响,Affect ,consequences,implications,influences,effects
+数量,数目,份量,quantity,number,how many
+数码,数位,数字,digital
+数码电视,digital television,television,电视,电视机,TV,tele,telly,tv set
+数据,资料,information,data,数据,资讯,materials ,statistic,figure,
+暂停,Supply,停止
+暂停使用通告,notice of suspension,announcement of suspension,notification of suspension,notice of stop using,暂停使用通知,停止使用通告
+暂停维修,suspended for repairs
+楼宇,Building,architecture,structure,edifice,mansion,house,建筑,建筑物,archi,大厦,楼,屋宇,大楼,buildings,Buildings,pile,hut,domicile,tenement,楼宇,房屋,住宅,物业,房子,房,务业,building,flat,apartment
+楼宇更新大行动2.0,Operation Building Bright 2.0,OBB 2.0,Operation structure Bright 2.0
+楼宇管理,building management
+楼宇机房设计,building plant room design,机房设计
+楼梯,stairhood,梯级
+楼梯升降台,stairlift,楼梯机
+楼层地面,Floor ground,landing,floor,地面,ground,surface,地上,层
+楼层数字,Floor number,number of the floor,no. of floor,floor no.,楼层,数字
+楼层显示器,lift position indicator,Floor indicator,lift position monitor,elevator position indicator,elevator position monitor,floor indicator,显示器,楼层数字显示器
+标书,tender,tenders,招标书,投标书
+标书样本,sample tender,tender sample,tender specimen,tender smaple book,招标书样本,投标书样本
+标准,水准,程度,level,standard,extent,
+标准保养合约,standard maintenance contract,criterion maintenance contract,normal maintenance contract,norm maintenance cotract,standard maintenance agreement,standard maintenance deal,standard maintenance compact,标准保养合同
+标准标书档,Standard Tender Documents,criterion Tender Documents ,normal Tender Documents,norm Tender Documents,Standard Tender file,Standard Tender archives,Standard Tender paper,标准标书档案,标准标书文件,标准招标书档,标准投标书档
+标志,mark,sign,symbol,logo,标识,标记,标号,标志,记号,logo ,label,tag,marking,标签
+标签,label
+标签样本,label sample,标签样品
+样品,sample,样本,specimen,样品,样版,版,选样,采样
+样品测试,testing sample,test sample,testing specimen,examinating sample,tentaitve sample,quizing sample,样品试验,样品考验,样品测验
+潜力,potentials
+潮汐,ocean tides,潮水,潮涨,浪潮,ocean wave,ocean tidal,涌浪,涨潮
+热 回 收 式 制 冷 机,heat recovery chiller
+热水,water heating,heat water,heating water,开水,hot water,boiling water
+热水炉水鼓胶帕上的顶针连胶板部件,遮
+热水炉排气曲与烟道间的连接配件,火柴盒
+热水炉热交换器,炉胆,水胆,水箱,水缸,water tank
+热石式抽湿机,dehumidifiers,Hot stone dehumidifier,抽湿机,除湿机,dehumidifier
+热交换器吸热片,牛百叶
+热泵热水器,heat pump water heaters,热泵热水炉,热泵式电热水炉,热泵式电热水器,热水器,热水炉,gas heater
+热岛效应,heat island effect
+热效率,Thermal Efficiency
+热电偶,老鼠尾,Lead
+热蓄能系统,Thermal energy storage system,Thermal energy memory system,Thermal energy custody system,Thermal energy keeping system,Thermal energy storage institution,Thermal energy storage equipment,热蓄能装置,热蓄能体系,热蓄能体制
+热线电话,hotline,phone number,tel,telephone no.,电话,热线,专线,查询电话,查询热线,热线电话,咨询热线,咨询电话,公众咨询热线,服务热线,服务电话,服务查询,客户热线,协助电话,援助电话,协助热线,援助热线,支援电话,电话支援,支援热线,客服热线,客服电话,客服号码, cs hotline, customer service hotline, cs contact number,热綫,专綫,查询热綫,热綫电话,咨询热綫,公众咨询热綫,服务热綫,客户热綫,协助热綫,援助热綫,客服热綫
+奖项,奖,award,accolade
+奖励,Incentive,reward,award,encourage and reard,recompense,repay,prize,pay,encouragement,premium,meed,kudo,激励措施,酬劳,报偿,奖赏,奖金,报酬,赏赐,奖,奖品
+确保,Gurrantee,保证,ensure,guarantee,确保,保证,assure,warrant,insure,pledge,vouch,swear,promise,oath,担保
+确认,确定,confirm,confirmed,肯定,sure,确实
+范本,样板,模板,template
+范围,area,domain,range,scope,extent,cover,限度,领域,范畴,界限
+线上基准工具,online benchmarking tools,网上能源消耗基准工具
+线路,电路,线路,circuit
+线路装置,wiring installation
+编号,号码,number,no.,figure,code,排号,numbering scheme
+胶袋,plastic bags,袋,塑料袋
+胶喉,PVC pipe,plastic pipe,rubber hose,PVC conduit,胶喉管
+卫生工程部, Health Sector Divisions
+复本,Duplicate,copy,replicate,reproduce,iterate,duplication,counterpart,transcript,副本,复制本,其他本,誊录本
+谁,边个,边个人,边D人,边啲人,谁人,who,那个人,哪个人,那位,哪位,那一位,哪一位,咩人,甚麽人,甚么人,什么人,谁,what person,what people,乜人,什麽人,那些人,哪些人,有咩人,有乜人,乜嘢人,咩嘢人,anyone,whose,someone,anybody,somebody,whoever,哪个,何人,孰,任何人,系边个,乜水
+课差饷租值,average rateable values
+课程,课堂,lecture,course,programmes,training class,training
+调整,adjust,调改,调试,Commissioning
+调压调频交流电动机,vvvf drive,vvvf
+调压器,龟,pressure regulator,gas regulator,调压阀,减压阀,石油气调压器
+调压器于关闭状态下渗漏,过刮,气体掣于关闭状态下渗漏
+论文,essay,thesis,dissertation
+质量,quality,standard,grade,level,质素,品质,质量,素质
+轮椅,wheelchair,motorized wheelchair,电动轮椅
+轮椅人士,Preferential use of wheelchair,Wheelchair users,轮椅使用者,轮椅使用人士
+轮椅电梯,Wheelchair elevator,Wheelchair lift,轮椅升降机台,Stair Lift,Stair elevator,轮椅升降机,stairlift
+适用,fall under,comply with,符合,meet,相符,吻合,遵守,comply
+适用安全规格,Applicable safety requirements
+驾驶,开车,揸,drive
+噪音,noisy,Noise,杂音,响声,嘈吵声,嘈声,rumble,cacophony
+噪音污染,noise,noise pollution,rumble, sound,噪声污染,声音污染,声响污染
+学士学位,bachelor's degree,baccalaureate,undergraduate academic degree,
+学位,academic degree
+学校外展计划,education programme,School Outreach Programme,讲座,school talk,
+学院,院校,学校,School,college,institute,academy,faculty,university,学院,书院,校园,学府,school,institution
+学习工作纸,worksheet,工作纸
+学习资料,learning materials
+学术,学问,academic discipline,academic field
+学历,教育文凭,educational attainment,academic achievement,academic qualification,academic requirements
+导致,become,因致,引发,引致,引起,造成
+导轨,guide,slideway,guide rail,rail
+拥有人,owner,owners,proprietor,proprietary,haver,所有人,所有者,拥有者,person who own
+拥有权,Ownership,proprietary,property,possession,proprietorship,property right,所有权,持有权
+操作,operate,营运,运作,运转,经营,操纵,control,work,run,utilize
+操作守则,Code of Practice
+操作面板,car operating panel
+操作员证明书,certificate of approval for operator,Operator certificate,mainpulator certification,credentials of approval for operator,proofment of approval for operator,voucher of approval for operator,操作员证书,操作员证,操作员证明,操作员凭照
+机身,lift car,elevator car,升降机机身,升降电梯机身,升降机机箱,升降机机厢,Lift carriage,dumbwaiter car,升降机厢,升降电梯机箱,垂直电梯机箱,𨋢厢,𨋢机厢,垂直升降机机身,𨋢机箱
+机制,mechanism,institution
+机门,lift door,lift gate,lift phylum,lift gateway,lift ostum,elevator gate,elevator phylum,elevator gateway,elevator ostium,升降机的门,升降机大门,升降机闸,垂直电梯门,垂直电梯大门,𨋢门,𨋢闸
+机动排气系统,mechanical exhaust system 
+机动游戏,Amusement ride,小童机动游戏机,kiddie ride ,Kiddie ride,游戏机,game console,机动游戏机,机动游戏设备
+机动游戏机,使用及操作许可证,Permit to Use and Operate for Amusemnt Ride,机动游戏机使用及操作许可证,Amusement ride license,license to Use and Operate for Amusemnt Ride,consent to Use and Operate for Amusemnt Ride,excise to Use and Operate for Amusemnt Ride,certificate to Use and Operate for 
+机动游戏机使用及操作许可证,permit to use and operate amusement ride
+机动游戏机的拥有人,amusement ride owner,amusement ride proprietor,amusement ride proprietary,amusement ride haver,机动游戏机的拥有者,机动游戏机的所有者
+机械,machine,mechanical device
+机械化泊车系统,mechanized vehicle parking system,MVPS,Mechanized parking system,机械式泊车系统
+机械式,mechanical
+机械电子工程学位,mechanical and electrical engineering degree,electrical and mechanical engineering degree,电子机械工程学位
+机顶盒,数码视讯转换盒,电视盒子,set-top box,STB,cable box
+机场,Airport,aerodrome,airfield,management,air station,飞机场,航空站
+机场三跑道,Third Runway,三跑,香港国际机场三跑,香港国际机场第三跑道,第三跑道,三跑道系统,3RS,3RS project,HKIA 3RS,Hong Kong International Airport-three-runway system
+机场三跑道工程,three-runway system (3RS) project,三跑道系统项目,3RS project,Third Runway project,三跑工程,三跑项目
+机场旅客捷运系统,APM system,Automated People Mover,机场旅客捷运,Automated People Mover system
+机厢,lift car,elevator car,升降机机身,升降电梯机身,升降机机箱,升降机机厢,Lift carriage,dumbwaiter car,升降机厢,升降电梯机箱,垂直电梯机箱,𨋢厢,𨋢机厢,垂直升降机机身,𨋢机箱
+机电,electrical and mechanical,E&M
+机电工程服务,electrical and mechanical service,electrical and mechanical services
+机电工程署,EMSD,electrical and mechanical services department,机电署,气体安全监督,贵部门,贵署,your department,你们,你哋,你地,Gas Authority,您们,机电处,机电工程处
+机电工程署守则,EMSD oridinance,EMSD rule,EMSD regulation,EMSD law,Code of Practice for Electrical and Mechanical Services Department,Ordinance of Practice for Electrical and Mechanical Services Department,rule of Practice for Electrical and Mechanical Services Department,law of Practice for Electrical and Mechanical Services Department,机电署守则,机电署规则,机电工程署条例
+机电工程署法例,EMSD oridinance,EMSD rule,EMSD regulation,EMSD law,Code of Practice for Electrical and Mechanical Services Department,Ordinance of Practice for Electrical and Mechanical Services Department,rule of Practice for Electrical and Mechanical Services Department,law of Practice for Electrical and Mechanical Services Department,机电署守则,机电署规则,机电工程署条例
+机电工程署总部大楼,EMSD headquarters,your headquarters,EMSD head office
+机电工程署铁路科,EMSD Railways Branch,RB,铁路科,Electrical and Mechanical Services Department Railways Branch,Railways Branch
+机电工程学,电机工程学,electrical engineering
+机电工程学文凭,diploma in electrical engineering
+机电安全,E&M safety 
+机电青少年大使,E&M young ambassador,young ambassador,E&M young ambassador scheme, electrical and mechanical young ambassador,机电青少年大使,E&M YA,emya
+机电创科网上平台,机电创科平台,创科网上平台,创科平台,创新平台,创新网上平台,E&M InnoPortal, InnoPortal, Inno Portal
+机电署服务,services provided by EMSD
+机电署网页,EMSD website,our website,your website,the website,机电工程署网页,本署网页,贵署网页,机电工程署网站,机电署网页站,本署网站,贵署网站,机电工程署网址,机电署网址,本署网址,贵署网址
+机构,organization,agency,institution,部门,部,ministry,department,sector,division
+横越,cross the,越过,走过,行过,穿过
+横截面,cross-sectional
+历史,history
+浓度,Concentration 
+燃料,fuel energy,fuel 
+燃料系统,fuel system
+燃料泵,fuel pump
+燃料缸,fuel tank,fuel tanks,石油气燃料缸,LPG fuel tank,LPG fuel tanks
+燃气,fuel gas,可用作燃料的气体,用来做燃料嘅气
+燃气车辆燃料系统,LPG vehicle fuel system maintenance 
+燃气烤肉炉,gas fired meat roaster,gas烤肉炉,煤气烤肉炉
+燃气热水器,gas water heater,燃气能热水炉,燃气能热水系统,gas hot-water heater,gas heater
+燃烧比率,combustion ratio,ratio of combustion
+灯具,light fixture,light fitting,luminaire
+灯制,light button,lamp button,light switch,lamp switch,灯开关制
+灯饰,灯光,the lighting,光綫,灯,luminaires,lighting
+烧毁,burnt
+独立,Separate,independent,autonomy,independencey,sovereighty,autocephaly,alone,单独,个体,零丁,自己,独自,
+独立屋,Detached house,independence house,autonomy house,independence building,sovereighty house,autocephaly house,独立式住宅,独立住宅,个人住宅,个人屋
+独立机房,Standalone plant room,Independent plant room,standalone engine room,independent machine room,independent generator room,独自机房,自身机房,单独机房
+独立顾问,Independent consultant,Independent adviser,Independent advisor,independent counselor,independent assessor,Independent counsellor,独立意见提供者,独立咨询人,独立咨询者, 独自顾问
+独自,by myself only,单人,a person,individual,一个人,一人
+积分,分数,points,点数,point,奖分
+积水,Stagnant water,聚水,Gather water,sluggish water,滞水,滞留水,聚积水
+萤光灯,日光灯,灯管,萤光管,光管,萤光灯,Fluorescent tube,fluorescent lamp,Fluorescent lamp,fluorescent tube
+衞生护理处所,Health care premises
+谐波失真,harmonics distortion,total harmonic distortion,THD,HD,总谐波失真
+输入,input,敲入,键入,key in
+输送,sent out,输出
+辐射预板供冷系统,Radiant ceiling cooling system,Radiant ceiling cooling insitution,Radiant ceiling cooling equipment,Radiant ceiling cooling organization,辐射预板供冷装置,辐射预板供冷制度,辐射预板供冷体制
+办事处,办公室,office,center
+办法,procedure,solution,method,way,appraoch,means,方法,步骤,计,办法,程序,次序,steps,measure,move
+遵行规定表格,Form of Compliance,FOC,Compliance Form,Table of Compliance,Tabulation of Compliance,遵守规定表格,遵行规定Form,遵守规定Form
+遵行规定登记证明书,Certificate of Compliance Registration,COCR,遵守规定登记证明书,Compliance Registration Certificate
+选址,siting requirements,site selection,select site,select location,location selection,选地点,选择地点,选择地址
+选取,选择,拣选,选用,拣择,choose,select,有咩拣,挑选,自订,自选
+选定地区,Designated area,appointed area,nomianted area,selected area,choosen area,picked area,assigned area,designed region,designted district,designted division,选定地方,选定区域,选定范围,选定地域
+选择,select,choose,selection,拣选,拣择,有咩拣,挑选,自订,自选
+遗失,唔见咗,ｌｏｓｔ,丢失,唔见了,不见了
+钢榄,ropes,rope,Steel cable,cable,electric cable,chain,iron chain
+错过,走鸡,走宝,miss
+表前制,main incoming circuit breaker
+随即抽查,take random sample
+霓虹光管灯箱,neon gas light
+静止,stopped,停止,停滞,平静
+频率,frequency,次数,数量,频率,number,频
+频道,channel
+餐𨋢,Dumbwaiter,lift,elevator,lifter,升降机,Lift,lifts,升降电梯,elevators,𨋢,垂直电梯,电梯,餐升降机,垂直电梯，升降电梯
+优化,modernization 
+优化工程项目,modernization works,优化工程,Modernization project,optimization works,majorization works,optimization project,majoriztion project,modernization item,modernization engineering,modernization undertaking,优化计画,优化项目
+优化升降机,lift modernisation,elevator modernisation,lift optimization,elevator optimization,lift majorization,elevator majorization,优化升降电梯,优化垂直电梯,优化𨋢
+优化升降机工程,lift modernisation works， ift modernisation project,elevator modernisation works,lift optimization project,elevator optimization engine,lift majorization engine,elevator majorization works
+优化升降机指引,Lift Modernisation Guideline,lift modernisation principle,elevator modernisationguideline,lift optimization guideline,elevator optimization guideline,lift majorization guideline,elevator majorization guideline,优化升降机指导,优化升降机导向
+优化升降机资助计划,Lift Modernisation Subsidy Scheme,Elevator Modernisation Subsidy Scheme,Lift Modernisation funding Scheme,Elevator Modernisation Funding Scheme,Lift Modernisation Subsidy Plan,Elevator Modernisation Subsidy Program,Lift Modernisation Subsidy Proposal,优化升降机资助方案,优化升降机资助策划,优化升降机资助项目
+优化计划,modernization plans,modernization project
+优惠,折扣,discount,着数,奖赏,jetso,discounts,特价,特卖,至激价
+优惠券,赠卷,优惠票,优待券,coupon
+优惠码,discount code,优惠代码,折扣代码,折扣码
+优质升降机服务认可计划,QLSRS,Quality Lift Service Recognition Scheme
+优点,Benefits,益处
+储水式电热水器,storage type electric water heater,储水式电热水炉,storage type electric heater
+储水容量,Storage Capacity
+储存,storage,store,存放,摆放,储藏
+储存器,container,storage 
+储气鼓,gas holder,gasholder
+储气鼓拥有人,owner of a gasholder,person who owns a gasholder,拥有储气鼓的人,有储气鼓嘅人
+储气鼓检验,gasholders examination 
+压力泄放阀,炮Bout
+压水式反应堆,pressurised water reactor
+婴儿车,baby stroller
+应用,applications,利用,运用,使用,using,采用
+应用程式,apps,mobile application 
+应具报气体装置,NGI,Notifiable Gas Installation
+应课差饷租值, Rateable Value, Rateable worth, Rateable valence, Rateable price, Rateable Valency,应课差饷租价,应课差饷租价值,应课差饷租格
+检查报告,job record,工作记录,维修报告,inspection report
+检查费,inspection fee
+检讨,review,反省,检查,check,inspect,checking,inspection,查证,检修,inspection and maintenance,巡查,调查,审查,批查,Checks,搜查
+检控,Prosecution,charge,accuse,accustion,crimnial charge,allegation,起诉,指控,控告,罪名,罪状,举报,检举,控诉,
+检控个案,prosecution cases,起诉案件,起诉案例
+检测员,Surveyor,注册检验员,registered examiners,检验员,注册检测员,inspector,censor,examiner,observe,viewer,supervisor,合资格检测员,合资格检验员,registered surveyor
+检验,检查,check,inspect,checking,inspection,查证,检修,inspection and maintenance,巡查,调查,审查,批查,Checks,搜查,examination
+检验员,Examinar
+检验报告,report of internal examination,report of examination,examination report,报告,report,inform,statement,汇报,陈述,呈报,报
+营商牌照,Business license,Business consent,Business permit,Business excisem bussiness license certificate,commerce license,trade permit,industry permit,商业牌照,营业牌照,业务牌照,生意牌照,营业证,营运证,营业牌,商业牌
+营业时间,businesshours,business hour,办公时间,工作时间,开放时间,什么时候营业,服务时间,operating hours,营业时间,office hours,opening hour,open hour,开店时间,开门时间,开舖时间,营运时间,operation hour,office hour
+营运合约,operation contract
+营运基金, EMSTF,Electrical and Mechanical Services Trading Fund,机电工程营运基金,营运资金, Trading Fund,trading service,TF
+营运价格,operating price
+墙内,inside wall,concealed
+墙内暗藏,concealed inside the wall
+获批,Approved,批准,approved,准许,approval,认可,允许
+获批准,approved,accepted,allowed,authorized,permitted,passed,被通过,通过左,被准许
+获得,拿到,得到,取得,获取,罗得到,罗到,obtain,get
+获授权签署人,responsibilities of Authorised Signatory
+环形,圆形,ring,toroidal
+环形电路,ring circuit
+环保,环境保护,保护环境,绿色文化,environmental,environmental protection,environment protection
+环保政策,environmental protection policies 
+环保装置, environmetnal protection installations,Environmental protection device,环保装备,环保器材,环保设备
+环路,环形公路,环状道路,ring road,beltline,beltway,circumferential (high)way,loop,orbital
+环路阻抗,loop impedance
+环境衞生,Pleasant environment,environmental hygiene
+了解,know,认识,Understanding,知道,得知,了解,理解,明白,了解,问清楚,understand,figure out,find out,领悟,清楚,领会,通晓,了然,明了
+总工程师,Chief Engineer,Seat of honor Engineer,leader of Engineer,head engineer,chieftain engineer,magistrate engineer,首席工程师,领袖工程师,头工程师
+总功率因数,power factor,功率因数,PF
+总容,total holding,总共装到,总共盛到
+总容水量,total nominal water capacity
+总部,headquarters,head office,HQ,HO,总办事处,总部大楼
+总储存量,储存容量,total storage capacity
+繁体,繁体字,正体中文,传统中文,传统字,Traditional Chinese
+联络资料,联络资讯,联系方式,联络方法,contact,联络,联系,接触,contact information,contact method
+联络电话,contact,contact number,contact no.,电话
+联锁,interlock,interlocking
+声明,宣言,宣布,declaration,proclaim
+脸书,facebook,FB
+临时,突然,suddenly,忽然,abruptly,unexpectedly,临时,突发,不料,暂时,temporary
+临时电接,过江龙
+举办,organize,hold,搞,筹办
+讲,告诉,说,话,tell
+讲座,talk,seminar,lecture
+豁免,Exemption,Exempt,excuse,dispense,absolve,discharge,liberate,free,indulgence,pardon,exoneration,acquittal,indulgency,absolution,宽免,免除,免去,解除,罢免
+赚取,gain
+购物袋,购物车,购物篮,shoppingcart
+购买,选购,buy,订购,消费,买嘢,买东西,血拼,购物,订货,买到,买咗嘢,订咗货,订咗嘢,shopping,purchase,买入
+趋势, trend,trency,趋向,动态,动向
+避免,avoid
+避免破坏,avoid damage,avoidance of damage
+避雷,避闪电,Lightning protection
+避雷系统,避雷装置
+避雷系统接地,避雷装置接地,earthing and lightning protection system
+隐藏收费,hidden charge 
+点样,how to,如何,怎样,怎麽样,怎么样,how,怎麽,怎么,点样,点架,要点,哪裏,何处,要点做
+摆放,放置,place,摆
+断开,broken,断了
+柜位,柜台,柜台,柜台,counter service
+浏覽,睇,观看,看到,见到,browse
+浏覽器,browser
+简体,简化字,简体中文,简化中文,简笔字,简体字,减笔字,simplified chinese
+简体中文版,简体版,simplified chinese version,simplified chinese ver.
+翻新,Renovation,重修
+职位,岗位,position,post,
+职位空缺,job vacancy,hiring,recruitment,空缺职位,请唔请人,请人,聘请员工,请员工,有空缺吗,招聘,聘请,hire,recruit,vacancy,工作机会,工返,空缺,job opportunity
+职责,duty,responsibility,liability,blame,task,mission,role,undertaking,责任,responsible,responsbility,本分,职责,duties,obligation,任务,负责,工作,work,operate,labour,function,operation,occupation,profession,job,employment,commisioning 运作,运行,作业,劳动,职业,承诺,角色,定位,character,position,key role,重要角色,obedience,职务
+职责范围,scope of duties,job responsibility
+职业,公种,工作,work,operate,labour,function,task,operation,duty,occupation,profession,job,employment,commisioning 运作,运行,作业,劳动,职业,duties,职责,责任,任务
+职业训练局,Vocational Training Council,职训局
+职权,Terms of reference
+旧,old
+旧式升降机,aged lift
+旧建筑,old building,旧屋,旧住宅,旧楼宇,旧楼,old housing,old house department
+蓝牙,蓝芽,bluetooth,
+蓝牙音响,bluetooth audio
+蓝田,LamTin
+蓝色,蓝,blue 
+覆检期,review period,revalidation period
+转移,转去,transfer,转让,转畀,转到,传给,传送,转赠
+转速可控型空调机,high efficiency variable speed room air conditioner,转速可控型冷气机,转速可控型房间空气调节器,high efficiency variable speed air conditioner
+转插,adaptor
+转废为能,waste to energy,waste-to-energy
+医院,Hospital,healith centre,clinic,infirmary,sanatorium,nursing home,hospice,cottage hospital,病院,疗养院,门诊部,卫生院,
+医疗,健康护照,治疗,healthcare,medical treatment,medical,医用
+医疗设备,medical equipment,medical equipments,medical facility,medical facilities,医疗器材,医用器材,医用设备
+医疗辅助用途,医疗辅助用,medical assistance purpose
+锁,lock
+锁迫力,brake jam,brake hanging,迫力 
+锁匙,钥匙,匙,key
+钨丝灯辔,incandescent bulbs,钨丝灯,白炽灯,Tungsten bulb
+双重制动系统,double braking system,dual braking system,dual brake system,双重刹车系统,双刹车系统,双制动系统
+双层泊车系统,double deck car parks system
+离岛,outlying island,island district,离岛区
+额外重力测验,extra load test
+额外检查,extra inspection
+颜色,color,hue,pigment,色,色水,colour,色彩
+宠物,pets
+宠物饮用水机,宠物饮水机,pet water dispenser
+爆咸水管事故,water pipe bursting incident
+爆破工程,blasting works
+爆裂,Burst,破裂
+签名,signature,签章,签署,sign
+签发,certify,发出,Promulgated by,颁布,授予,发放,准予,grant,allow,permit 
+证明,证据,证实,验证,prove,testimony,certificate,substantiate
+证明书,certificate,certification,证书,凭证,认证,Recognized,认可,recognized,approved,accredited,具资格,牌照
+证书号码,certificate number,cert number,certificate no,cert no,证明书号码,证书编号,证明书编号
+识别标志,identification signage
+赠品,gift,gifts,礼品
+边境,边境地区,边界,边疆,frontier,border,boundary,
+边境及运输工程部,Boundary Crossing Facilities and Transport Services Division,BTSD
+关掉,turn off,switch off
+难,difficult,难以,困难,more difficult,艰难,艰巨,艰苦,tough,hard,不容易,不易
+类别,Types,kind,sort,variety,class,category,classification,genre,style,species,race,genus,model,种类,type,范畴,部类,分类,类,种,类别,样式,类型,款式,风格
+劝介信,Advisory letter,consultative letter,conseling letter,recmmendatory letter,recommending letter,assisting letter,aiding letter,advisory correspondence,劝介函件,咨询信,咨询函件,顾问函件,顾问信
+严重抖动, 剧烈震荡,摇晃,serious shaking, severe shaking,vibration
+悬吊榄索,the suspension ropes,Suspension cable,suspension iron chain,suspension chain,suspension wire,吊索,吊榄索,榄索,榄,悬吊铁索
+悬挂,挂,hang
+继承权,Keep on using,Inheritance
+警告性,告诫,正告,警戒,警示,warning,caution,admonition,injunction
+警告标志,warning sign
+警车,警察车,police car,police vehicle,
+警钟,alarm
+馈电路,feeder circuit
+属真属假,what is true and what is fake,是真是假,系真系假,validity,真假,真伪,真确性,is it true
+续期,renew,renewal,续订,续约,续拿,续攞,续取,续领
+续牌,牌照续期,续领牌照,certificate renewal, renew certificate,
+铁路,railway,railroad track,railroad,铁路路綫,火车路綫,rail transport,train transport,铁路运输
+铁路安全,railway safety,港铁铁路安全,铁路安全规则,railway safety rules 
+铁路系统,railway system,MTR railway system,港铁铁路系统
+铁路车站,Railway,railroad track,railroad,railway line,elevated railway,trolley line,underground railway,火车车站,火车站,铁轨火车站,高铁站,货运火车站
+铁路事故,railway incidents,铁路意外,铁路失灵
+铁路设施,railway facilities,铁路设备,铁路装置,铁路装备
+铁路网络,railway network,港铁铁路网络,香港铁路网络图,Hong Kong railway network
+顾问,consultant,adviser,advisor,counselor,assessor,counsellor,顾问人员,建议者,查询人员
+顾问公司,consultant company
+顾问公司工程师,the engineer of consultant company,the technician of consultant company,the engineer of adviser company,the engineer of advisor company,the engineer of counselor company,the engineer of assessor company,the engineer of counseller company,顾问公司技术师,查询公司工程师,建议公司工程师
+顾问服务,consultancy service,consultancy,consultant service,consultant ministry,adviser service,advisor service,counselor service,assessor service,counsellor service,建议者服务,查询服务
+驱气服务,驱气,purging service
+变更,Change,alter,vary,transform,modify,correct,revise,recitfy,swap,variation,variance,mutation,transmutation,改变,改动,Alteration,改造,更改,变更,更新,update,修改,更换,change,变动,改换,更迭,replace,adjust,调整,改用,switch to,converting,换,替换,换成,更动
+变动率,振荡指标,Oscillator,OSC
+变速仪器,variable speed equipment,变速器,调速变阻器,speed regulating rheostat
+变频式冷气机,变频式空调,变频式空调机,变频式净冷,inverter air conditioners,inverter air-con,变频式冷气,变频冷气
+变压器,火牛,变压器,AC adaptor,transformer,龟
+显示,出示,show,display,现出,标示,sinage
+显示板数字,The display panel,Display board number,indicate panel,demonstration panel,illustrae panel,显示板,表现板数字,出示板数字
+显示器,显示芒,display device,monitor
+验车,vehicle examination,汽车检查
+验证,识别,凭证,认证,Recognized,认可,recognized,approved,accredited,具资格,鉴别,鉴定,查证
+湾仔,wanchai
+观塘避风塘,Kwun Tong Typhoon Shelter,观塘海滨,观塘海傍
+赞扬,称赞,赞颂,表扬,praise,致意
+榄车榄索,the hauling rope,榄索铁路,Cable car
+榄索,ropes,rope,Steel cable,cable,electric cable,chain,iron chain
+钻墙,wall drilling,drill the wall
